@@ -1,0 +1,8 @@
+[gramtest] Iterator_HasNext @ GeneratorVisitor.java:221 | remained=45163 (out of 895910)
+[gramtest] Iterator_RemoveOnce @ GeneratorVisitor.java:221 | remained=45029 (out of 895910)
+[gramtest] ListIterator_RemoveOnce @ GeneratorVisitor.java:221 | remained=41966 (out of 839414)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 1
+Iterator_RemoveOnce: 1
+ListIterator_RemoveOnce: 1

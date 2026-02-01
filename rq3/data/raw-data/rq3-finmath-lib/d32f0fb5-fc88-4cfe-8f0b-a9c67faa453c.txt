@@ -1,0 +1,12 @@
+Appendable_ThreadSafe @ ScheduleFromPeriods.java:152: 1 Unique Traces, 41 Redundant Traces, 1 Preserved, 9 Remained 
+Appendable_ThreadSafe @ ScheduleFromPeriods.java:157: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Collection_UnsafeIterator @ ScheduleFromPeriods.java:126: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collection_UnsafeIterator @ ScheduleGeneratorTest.java:54: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351: 2 Unique Traces, 2 Redundant Traces, 2 Preserved, 2 Remained 
+Iterator_HasNext @ ScheduleGeneratorTest.java:54: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Iterator_HasNext @ ScheduleGeneratorTest.java:85: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Iterator_RemoveOnce @ ScheduleGeneratorTest.java:54: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Iterator_RemoveOnce @ ScheduleGeneratorTest.java:85: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ ScheduleFromPeriods.java:152: 1 Unique Traces, 41 Redundant Traces, 1 Preserved, 41 Remained 
+StringBuilder_ThreadSafe @ ScheduleFromPeriods.java:157: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringTokenizer_HasMoreElements @ AbstractBusinessdayCalendar.java:87: 2 Unique Traces, 0 Redundant Traces, 2 Preserved, 0 Remained 

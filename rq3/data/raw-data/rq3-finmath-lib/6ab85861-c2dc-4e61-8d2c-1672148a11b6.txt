@@ -1,0 +1,17 @@
+Appendable_ThreadSafe @ CalibratedModel.java:250: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 19 Remained 
+Appendable_ThreadSafe @ VarianceGammaDaxCalibrationTest.java:157: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ VarianceGammaDaxCalibrationTest.java:159: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ VarianceGammaDaxCalibrationTest.java:160: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Arrays_SortBeforeBinarySearch @ ArrayUtils.java:143: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collection_UnsafeIterator @ VarianceGammaDaxCalibrationTest.java:170: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ CalibratedModel.java:181: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ CalibratedModel.java:212: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 2 Unique Traces, 2 Redundant Traces, 2 Preserved, 2 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:479: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LevenbergMarquardt.java:606: 1 Unique Traces, 15 Redundant Traces, 1 Preserved, 15 Remained 
+Iterator_HasNext @ VarianceGammaDaxCalibrationTest.java:170: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Iterator_RemoveOnce @ VarianceGammaDaxCalibrationTest.java:170: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ CalibratedModel.java:250: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ VarianceGammaDaxCalibrationTest.java:157: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ VarianceGammaDaxCalibrationTest.java:159: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ VarianceGammaDaxCalibrationTest.java:160: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

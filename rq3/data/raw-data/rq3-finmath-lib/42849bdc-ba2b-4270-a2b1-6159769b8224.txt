@@ -1,0 +1,10 @@
+Appendable_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:87: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:105: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:119: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:133: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 1 Unique Traces, 9 Redundant Traces, 1 Preserved, 6 Remained 
+StringBuilder_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:87: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:105: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:119: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ AssetBlackScholesModelDescriptorTest.java:133: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

@@ -1,0 +1,2 @@
+Appendable_ThreadSafe @ GammaProcessTest.java:67: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 481 Remained 
+StringBuilder_ThreadSafe @ GammaProcessTest.java:67: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 528 Remained 

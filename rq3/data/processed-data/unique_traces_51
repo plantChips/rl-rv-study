@@ -1,0 +1,7 @@
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ TrieBasedSpellChecker.java:171 | remained=2883 (out of 2883)
+[jpoker] Iterator_RemoveOnce @ IsCollectionContaining.java:24 | remained=566 (out of 566)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ CharWordSetBuilder.java:100 | remained=52 (out of 406)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 2
+Iterator_RemoveOnce: 1

@@ -1,0 +1,31 @@
+[TurkishMorphologicalDisambiguation] Iterator_RemoveOnce @ FsmMorphologicalAnalyzer.java:662 | remained=3767112 (out of 3767112)
+[TurkishSpellChecker] Iterator_RemoveOnce @ FsmMorphologicalAnalyzer.java:662 | remained=330934 (out of 330935)
+[progex] Collections_SortBeforeBinarySearch @ ParserRuleContext.java:255 | remained=9068 (out of 181085)
+[rtree-multi] Collections_SortBeforeBinarySearch @ Visualizer.java:81 | remained=1263 (out of 24766)
+[rtree2] Collections_SortBeforeBinarySearch @ Visualizer.java:79 | remained=1249 (out of 24763)
+[java-vector-tile] Collections_SortBeforeBinarySearch @ LazyStringArrayList.java:218 | remained=529 (out of 10123)
+[TurkishWordNet] Iterator_RemoveOnce @ Synonym.java:43 | remained=412 (out of 7832)
+[progex] Iterator_RemoveOnce @ JavaDDGBuilder.java:592 | remained=285 (out of 4763)
+[TurkishWordNet] Iterator_RemoveOnce @ WordNetTest.java:82 | remained=245 (out of 4023)
+[TurkishDeasciifier] Iterator_HasNext @ FsmMorphologicalAnalyzer.java:662 | remained=206 (out of 3251)
+[TurkishDeasciifier] Collection_UnsafeIterator @ FsmMorphologicalAnalyzer.java:662 | remained=187 (out of 3251)
+[jcunit] Iterator_HasNext @ IpoGplus.java:161 | remained=107 (out of 107)
+[jcunit] Iterator_RemoveOnce @ IpoGplus.java:161 | remained=107 (out of 107)
+[progex] ArrayDeque_UnsafeIterator @ JavaDDGBuilder.java:496 | remained=103 (out of 1649)
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:496 | remained=97 (out of 1649)
+[Fuzzino] Iterator_RemoveOnce @ SimpleStringCaseOperator.java:109 | remained=78 (out of 789)
+[rtree2] List_UnsynchronizedSubList @ RTree.java:392 | remained=34 (out of 402)
+[jackcess] Iterator_RemoveOnce @ IndexPageCache.java:1015 | remained=28 (out of 528)
+[rtree] List_UnsynchronizedSubList @ RTree.java:398 | remained=27 (out of 402)
+[java-vector-tile] Collection_UnsafeIterator @ AbstractMessageLite.java:372 | remained=22 (out of 76)
+[java-vector-tile] Iterator_HasNext @ AbstractMessageLite.java:372 | remained=16 (out of 76)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:500 | remained=11 (out of 45)
+[jackcess] Collections_SortBeforeBinarySearch @ IndexPageCache.java:936 | remained=6 (out of 107)
+
+=== SPEC STATISTICS ===
+Iterator_RemoveOnce: 8
+Collections_SortBeforeBinarySearch: 6
+Iterator_HasNext: 3
+Collection_UnsafeIterator: 3
+List_UnsynchronizedSubList: 2
+ArrayDeque_UnsafeIterator: 1

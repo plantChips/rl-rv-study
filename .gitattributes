@@ -1,0 +1,2 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+rq3/data/plot-data/* filter=lfs diff=lfs merge=lfs -text

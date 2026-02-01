@@ -1,0 +1,17 @@
+[cocolian-nlp] Iterator_RemoveOnce @ NatureRecognitor.java:53 | remained=11518 (out of 226477)
+[cocolian-nlp] Collection_UnsafeIterator @ NatureRecognitor.java:53 | remained=11486 (out of 226477)
+[cocolian-nlp] Iterator_HasNext @ NatureRecognitor.java:53 | remained=11332 (out of 226477)
+[cocolian-nlp] Collection_UnsafeIterator @ NatureRecognitor.java:52 | remained=6901 (out of 6901)
+[cocolian-nlp] Iterator_HasNext @ NatureRecognitor.java:52 | remained=6901 (out of 6901)
+[cocolian-nlp] Iterator_RemoveOnce @ NatureRecognitor.java:52 | remained=6901 (out of 6901)
+[cocolian-nlp] Collection_UnsafeIterator @ BellmanFordShortestPath.java:99 | remained=2561 (out of 48853)
+[cocolian-nlp] Iterator_RemoveOnce @ BellmanFordShortestPath.java:160 | remained=2550 (out of 48853)
+[cocolian-nlp] Iterator_RemoveOnce @ BellmanFordShortestPath.java:99 | remained=2537 (out of 48853)
+[cocolian-nlp] Iterator_HasNext @ BellmanFordShortestPath.java:99 | remained=2528 (out of 48853)
+[cocolian-nlp] Iterator_HasNext @ BellmanFordShortestPath.java:160 | remained=2518 (out of 48853)
+[cocolian-nlp] Collection_UnsafeIterator @ BellmanFordShortestPath.java:160 | remained=2410 (out of 48853)
+
+=== SPEC STATISTICS ===
+Iterator_RemoveOnce: 4
+Collection_UnsafeIterator: 4
+Iterator_HasNext: 4

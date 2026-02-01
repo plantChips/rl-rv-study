@@ -1,0 +1,21 @@
+[jackcess] StringBuilder_ThreadSafe @ ByteUtil.java:473 | remained=5340 (out of 108266)
+[cocolian-nlp] Iterator_HasNext @ CharTreeSegmenter.java:222 | remained=1136 (out of 20789)
+[cocolian-nlp] Collection_UnsafeIterator @ CharTreeSegmenter.java:222 | remained=1089 (out of 20789)
+[cocolian-nlp] Collection_UnsafeIterator @ CharTreeSegmenter.java:221 | remained=1079 (out of 1079)
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ CooccurrenceNPathGenerator.java:62 | remained=1079 (out of 1079)
+[cocolian-nlp] Iterator_HasNext @ CharTreeSegmenter.java:221 | remained=1079 (out of 1079)
+[cocolian-nlp] Iterator_RemoveOnce @ CharTreeSegmenter.java:221 | remained=1079 (out of 1079)
+[cocolian-nlp] Iterator_RemoveOnce @ CharTreeSegmenter.java:222 | remained=1075 (out of 20789)
+[progex] Iterator_RemoveOnce @ JavaClass.java:64 | remained=261 (out of 4991)
+[QLExpress] Collections_SortBeforeBinarySearch @ QLPattern.java:218 | remained=75 (out of 75)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:226 | remained=35 (out of 35)
+[orientdb-jdbc] Map_UnsafeIterator @ OCommandExecutorSQLResultsetAbstract.java:390 | remained=26 (out of 40)
+[progex] Map_UnsafeIterator @ PredictionMode.java:582 | remained=25 (out of 287)
+
+=== SPEC STATISTICS ===
+Iterator_RemoveOnce: 3
+Map_UnsafeIterator: 3
+Iterator_HasNext: 2
+Collection_UnsafeIterator: 2
+Collections_SortBeforeBinarySearch: 2
+StringBuilder_ThreadSafe: 1

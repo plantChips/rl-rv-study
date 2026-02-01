@@ -1,0 +1,4 @@
+Appendable_ThreadSafe @ DayCountConvention_30E_360_ISDATest.java:125: 1 Unique Traces, 21 Redundant Traces, 1 Preserved, 21 Remained 
+Appendable_ThreadSafe @ DayCountConvention_30E_360_ISDATest.java:137: 1 Unique Traces, 21 Redundant Traces, 1 Preserved, 21 Remained 
+StringBuilder_ThreadSafe @ DayCountConvention_30E_360_ISDATest.java:125: 1 Unique Traces, 21 Redundant Traces, 1 Preserved, 21 Remained 
+StringBuilder_ThreadSafe @ DayCountConvention_30E_360_ISDATest.java:137: 1 Unique Traces, 21 Redundant Traces, 1 Preserved, 21 Remained 

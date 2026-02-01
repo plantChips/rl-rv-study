@@ -1,0 +1,2 @@
+Appendable_ThreadSafe @ DayCountConvention_30E_360Test.java:100: 1 Unique Traces, 21 Redundant Traces, 1 Preserved, 21 Remained 
+StringBuilder_ThreadSafe @ DayCountConvention_30E_360Test.java:100: 1 Unique Traces, 21 Redundant Traces, 1 Preserved, 3 Remained 

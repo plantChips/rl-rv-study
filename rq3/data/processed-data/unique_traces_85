@@ -1,0 +1,6 @@
+[jackcess] Iterator_HasNext @ TableImpl.java:1268 | remained=30 (out of 34)
+[jpoker] Map_UnsafeIterator @ RuntimeGlue.java:80 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 1
+Map_UnsafeIterator: 1

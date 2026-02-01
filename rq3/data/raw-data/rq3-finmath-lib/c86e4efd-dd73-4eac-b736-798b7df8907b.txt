@@ -1,0 +1,5 @@
+Appendable_ThreadSafe @ Complex.java:1297: 1 Unique Traces, 9 Redundant Traces, 1 Preserved, 9 Remained 
+Appendable_ThreadSafe @ MertonJumpDiffusionCallOptionTest.java:116: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 7 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 1 Unique Traces, 199 Redundant Traces, 1 Preserved, 44 Remained 
+StringBuilder_ThreadSafe @ Complex.java:1297: 1 Unique Traces, 9 Redundant Traces, 1 Preserved, 9 Remained 
+StringBuilder_ThreadSafe @ MertonJumpDiffusionCallOptionTest.java:116: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 19 Remained 

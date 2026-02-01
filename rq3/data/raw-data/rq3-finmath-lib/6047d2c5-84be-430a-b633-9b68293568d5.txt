@@ -1,0 +1,8 @@
+Appendable_ThreadSafe @ ModelWithProductFactoryTest.java:101: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ ModelWithProductFactoryTest.java:119: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ ModelWithProductFactoryTest.java:147: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 2 Unique Traces, 18 Redundant Traces, 2 Preserved, 18 Remained 
+StringBuilder_ThreadSafe @ ModelWithProductFactoryTest.java:101: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ ModelWithProductFactoryTest.java:119: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ ModelWithProductFactoryTest.java:147: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

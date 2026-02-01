@@ -1,0 +1,44 @@
+[TurkishMorphologicalDisambiguation] Iterator_HasNext @ FsmMorphologicalAnalyzer.java:662 | remained=5234725 (out of 5234725)
+[TurkishSpellChecker] Iterator_HasNext @ FsmMorphologicalAnalyzer.java:662 | remained=464137 (out of 464137)
+[TurkishSpellChecker] Collection_UnsafeIterator @ FsmMorphologicalAnalyzer.java:662 | remained=23126 (out of 464137)
+[jieba-analysis] StringBuilder_ThreadSafe @ JiebaSegmenter.java:196 | remained=11528 (out of 228318)
+[TurkishMorphologicalDisambiguation] Collection_UnsafeIterator @ FsmMorphologicalAnalyzer.java:662 | remained=10047 (out of 199980)
+[ik-analyzer] ListIterator_RemoveOnce @ WordSegmenter.java:57 | remained=6075 (out of 119380)
+[ik-analyzer] Iterator_HasNext @ WordTokenFilter.java:76 | remained=6042 (out of 119380)
+[ik-analyzer] Collection_UnsafeIterator @ WordSegmenter.java:57 | remained=6005 (out of 119380)
+[ik-analyzer] Collections_SortBeforeBinarySearch @ BiSegGraph.java:207 | remained=5998 (out of 119380)
+[ik-analyzer] ListIterator_RemoveOnce @ WordTokenFilter.java:85 | remained=5992 (out of 119380)
+[ik-analyzer] Iterator_HasNext @ WordSegmenter.java:57 | remained=5980 (out of 119380)
+[ik-analyzer] Iterator_RemoveOnce @ WordSegmenter.java:57 | remained=5968 (out of 119380)
+[ik-analyzer] Iterator_RemoveOnce @ WordTokenFilter.java:85 | remained=5960 (out of 119380)
+[ik-analyzer] Collections_SortBeforeBinarySearch @ BiSegGraph.java:218 | remained=5914 (out of 119380)
+[ik-analyzer] Collection_UnsafeIterator @ WordTokenFilter.java:71 | remained=5896 (out of 119380)
+[TurkishWordNet] Iterator_HasNext @ Synonym.java:43 | remained=434 (out of 7790)
+[progex] Iterator_RemoveOnce @ ParserATNSimulator.java:855 | remained=190 (out of 3075)
+[progex] Collection_UnsafeIterator @ ParserATNSimulator.java:855 | remained=168 (out of 3075)
+[progex] Iterator_HasNext @ ParserATNSimulator.java:855 | remained=164 (out of 3075)
+[java-vector-tile] Collection_UnsafeIterator @ MCIndexNoder.java:119 | remained=128 (out of 128)
+[java-vector-tile] Iterator_HasNext @ MCIndexNoder.java:119 | remained=128 (out of 128)
+[progex] Iterator_HasNext @ JavaDDGBuilder.java:290 | remained=115 (out of 115)
+[progex] Iterator_RemoveOnce @ JavaDDGBuilder.java:291 | remained=114 (out of 115)
+[progex] Iterator_HasNext @ LexerATNSimulator.java:679 | remained=100 (out of 1350)
+[progex] Collection_UnsafeIterator @ LexerATNSimulator.java:679 | remained=85 (out of 1350)
+[stringsearchalgorithms] Iterator_RemoveOnce @ MultiFactorRE.java:229 | remained=77 (out of 1111)
+[functional-utils] Iterator_HasNext @ Iterables.java:676 | remained=34 (out of 65)
+[functional-utils] Iterator_HasNext @ Iterables.java:547 | remained=29 (out of 344)
+[java-vector-tile] Collections_SortBeforeBinarySearch @ MonotoneChainBuilder.java:56 | remained=22 (out of 128)
+[progex] Collection_UnsafeIterator @ PredictionMode.java:518 | remained=18 (out of 18)
+[progex] Iterator_HasNext @ PredictionMode.java:518 | remained=18 (out of 18)
+[progex] Iterator_RemoveOnce @ PredictionMode.java:518 | remained=18 (out of 18)
+[progex] Map_UnsafeIterator @ PredictionMode.java:518 | remained=18 (out of 18)
+[java-vector-tile] Iterator_RemoveOnce @ MCIndexNoder.java:120 | remained=17 (out of 128)
+[javadbf] Collections_SortBeforeBinarySearch @ DBFHeader.java:159 | remained=12 (out of 45)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 12
+Collection_UnsafeIterator: 8
+Iterator_RemoveOnce: 7
+Collections_SortBeforeBinarySearch: 4
+ListIterator_RemoveOnce: 2
+StringBuilder_ThreadSafe: 1
+Map_UnsafeIterator: 1

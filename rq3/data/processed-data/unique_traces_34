@@ -1,0 +1,39 @@
+[JaroWinklerSimilarity] StringBuilder_ThreadSafe @ TrieMap.java:231 | remained=53030 (out of 1057240)
+[JaroWinklerSimilarity] Appendable_ThreadSafe @ TrieMap.java:231 | remained=52820 (out of 1057240)
+[java-vector-tile] Collections_SortBeforeBinarySearch @ VectorTile.java:2865 | remained=10128 (out of 10128)
+[orientdb-jdbc] Collection_UnsafeIterator @ OWALChangesTree.java:253 | remained=1481 (out of 29967)
+[cocolian-nlp] Collection_UnsafeIterator @ ForeignNameRecognitor.java:48 | remained=405 (out of 6958)
+[cocolian-nlp] Iterator_RemoveOnce @ ForeignNameRecognitor.java:48 | remained=384 (out of 6958)
+[cocolian-nlp] Iterator_HasNext @ AsianNameRecognitor.java:49 | remained=375 (out of 6958)
+[cocolian-nlp] Iterator_HasNext @ CompanyRecognitor.java:34 | remained=363 (out of 6958)
+[cocolian-nlp] Collection_UnsafeIterator @ CompanyRecognitor.java:34 | remained=361 (out of 6958)
+[cocolian-nlp] Iterator_RemoveOnce @ AsianNameRecognitor.java:49 | remained=361 (out of 6958)
+[cocolian-nlp] Collection_UnsafeIterator @ AsianNameRecognitor.java:49 | remained=358 (out of 6958)
+[cocolian-nlp] Iterator_RemoveOnce @ CompanyRecognitor.java:34 | remained=358 (out of 6958)
+[cocolian-nlp] Iterator_HasNext @ ForeignNameRecognitor.java:48 | remained=354 (out of 6958)
+[sensitive-word] StringBuilder_ThreadSafe @ AbstractConditionWordCheck.java:61 | remained=234 (out of 234)
+[orientdb-jdbc] Iterator_HasNext @ ORecordSerializerBinaryV0.java:728 | remained=168 (out of 2855)
+[orientdb-jdbc] Iterator_RemoveOnce @ ORecordSerializerBinaryV0.java:728 | remained=152 (out of 2512)
+[stringsearchalgorithms] Collection_UnsafeIterator @ ByteWordSetBuilder.java:153 | remained=116 (out of 116)
+[orientdb-jdbc] Collection_UnsafeIterator @ OImmutableSchema.java:50 | remained=42 (out of 178)
+[stringsearchalgorithms] Collection_UnsafeIterator @ ByteWordSetBuilder.java:96 | remained=23 (out of 116)
+[orientdb-jdbc] Iterator_HasNext @ OSchemaShared.java:811 | remained=22 (out of 147)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ ByteWordSetBuilder.java:141 | remained=19 (out of 116)
+[stringsearchalgorithms] Iterator_RemoveOnce @ ByteWordSetBuilder.java:156 | remained=17 (out of 116)
+[stringsearchalgorithms] ListIterator_RemoveOnce @ ByteWordSetBuilder.java:153 | remained=17 (out of 116)
+[stringsearchalgorithms] ListIterator_RemoveOnce @ ByteWordSetBuilder.java:156 | remained=17 (out of 116)
+[choco-graph] Iterator_HasNext @ PropArborescences.java:140 | remained=16 (out of 16)
+[stringsearchalgorithms] Iterator_HasNext @ ByteWordSetBuilder.java:153 | remained=14 (out of 116)
+[stringsearchalgorithms] Collection_UnsafeIterator @ ByteWordSetBuilder.java:156 | remained=13 (out of 116)
+[stringsearchalgorithms] Iterator_HasNext @ ByteWordSetBuilder.java:97 | remained=12 (out of 116)
+[stringsearchalgorithms] Iterator_HasNext @ ByteWordSetBuilder.java:156 | remained=12 (out of 116)
+[stringsearchalgorithms] Iterator_RemoveOnce @ ByteWordSetBuilder.java:153 | remained=8 (out of 116)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 9
+Collection_UnsafeIterator: 8
+Iterator_RemoveOnce: 6
+StringBuilder_ThreadSafe: 2
+Collections_SortBeforeBinarySearch: 2
+ListIterator_RemoveOnce: 2
+Appendable_ThreadSafe: 1

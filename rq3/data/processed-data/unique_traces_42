@@ -1,0 +1,21 @@
+[rtree2] List_UnsynchronizedSubList @ SplitterRStar.java:95 | remained=8817 (out of 176368)
+[jieba-analysis] Collections_SortBeforeBinarySearch @ JiebaSegmenter.java:213 | remained=6801 (out of 136102)
+[jackcess] Appendable_ThreadSafe @ ByteUtil.java:473 | remained=5273 (out of 108111)
+[cocolian-nlp] Collection_UnsafeIterator @ HMMTokenizer.java:146 | remained=364 (out of 6690)
+[pgs-calc] Collection_UnsafeIterator @ CommandLine.java:18270 | remained=179 (out of 3190)
+[pgs-calc] Iterator_HasNext @ CommandLine.java:18270 | remained=179 (out of 3190)
+[progex] Collection_UnsafeIterator @ PredictionMode.java:582 | remained=27 (out of 123)
+[progex] Iterator_HasNext @ PredictionMode.java:582 | remained=26 (out of 123)
+[kiara] Collection_UnsafeIterator @ LogicalUtil.java:210 | remained=23 (out of 148)
+[TurkishSpellChecker] Collection_UnsafeIterator @ ContextBasedSpellChecker.java:87 | remained=21 (out of 21)
+[TurkishSpellChecker] Iterator_HasNext @ ContextBasedSpellChecker.java:87 | remained=21 (out of 21)
+[TurkishSpellChecker] Iterator_RemoveOnce @ ContextBasedSpellChecker.java:87 | remained=21 (out of 21)
+[kiara] Iterator_HasNext @ LogicalUtil.java:210 | remained=16 (out of 148)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 5
+Iterator_HasNext: 4
+List_UnsynchronizedSubList: 1
+Collections_SortBeforeBinarySearch: 1
+Appendable_ThreadSafe: 1
+Iterator_RemoveOnce: 1

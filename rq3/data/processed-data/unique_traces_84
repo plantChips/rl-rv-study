@@ -1,0 +1,13 @@
+[QLExpress] Appendable_ThreadSafe @ ExpressParse.java:287 | remained=109 (out of 109)
+[QLExpress] StringBuilder_ThreadSafe @ ExpressParse.java:287 | remained=109 (out of 109)
+[jackcess] Iterator_HasNext @ TableUpdater.java:244 | remained=104 (out of 106)
+[stringsearchalgorithms] Collection_UnsafeIterator @ BestFactorAnalyzer.java:211 | remained=59 (out of 1014)
+[jackcess] Iterator_RemoveOnce @ TableUpdater.java:244 | remained=29 (out of 47)
+[jpoker] Collection_UnsafeIterator @ LocalizedXStreams.java:88 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 2
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1
+Iterator_HasNext: 1
+Iterator_RemoveOnce: 1

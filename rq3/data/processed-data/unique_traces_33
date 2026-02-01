@@ -1,0 +1,16 @@
+[Jaba] Collections_SortBeforeBinarySearch @ AhoCorasickDoubleArrayTrie.java:412 | remained=108982 (out of 108982)
+[orientdb-jdbc] Collection_UnsafeIterator @ ODocument.java:1345 | remained=819 (out of 15371)
+[AnomalyDetectTool] Collections_SortBeforeBinarySearch @ ESDTool.java:44 | remained=683 (out of 683)
+[jcunit] Map_CollectionViewAdd @ TupleUtils.java:19 | remained=137 (out of 2181)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:226 | remained=44 (out of 44)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:236 | remained=42 (out of 42)
+[Fuzzino] Collections_SortBeforeBinarySearch @ ComputableListImpl.java:69 | remained=32 (out of 436)
+[progex] Iterator_RemoveOnce @ PredictionMode.java:582 | remained=17 (out of 132)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351 | remained=6 (out of 9)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 4
+Map_UnsafeIterator: 2
+Collection_UnsafeIterator: 1
+Map_CollectionViewAdd: 1
+Iterator_RemoveOnce: 1

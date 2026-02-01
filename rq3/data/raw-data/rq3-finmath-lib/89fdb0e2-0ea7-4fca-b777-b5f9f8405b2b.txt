@@ -1,0 +1,4 @@
+Appendable_ThreadSafe @ SimpsonRealIntegratorTest.java:55: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ SimpsonRealIntegratorTest.java:82: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ SimpsonRealIntegratorTest.java:55: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ SimpsonRealIntegratorTest.java:82: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

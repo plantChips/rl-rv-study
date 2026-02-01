@@ -1,0 +1,6 @@
+Appendable_ThreadSafe @ OptimizerFactoryTest.java:52: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Appendable_ThreadSafe @ OptimizerFactoryTest.java:54: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 
+Arrays_SortBeforeBinarySearch @ CMAESOptimizer.java:828: 1 Unique Traces, 291 Redundant Traces, 1 Preserved, 38 Remained 
+Collections_SortBeforeBinarySearch @ LevenbergMarquardt.java:606: 1 Unique Traces, 10 Redundant Traces, 1 Preserved, 10 Remained 
+StringBuilder_ThreadSafe @ OptimizerFactoryTest.java:52: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ OptimizerFactoryTest.java:54: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 

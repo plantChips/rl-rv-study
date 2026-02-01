@@ -1,0 +1,11 @@
+[cocolian-nlp] Iterator_HasNext @ ConnectivityInspector.java:110 | remained=5180 (out of 100724)
+[cocolian-nlp] Iterator_RemoveOnce @ ConnectivityInspector.java:111 | remained=5093 (out of 100724)
+[progex] Iterator_HasNext @ ParserATNSimulator.java:2031 | remained=459 (out of 8394)
+[progex] Collection_UnsafeIterator @ ParserATNSimulator.java:2031 | remained=426 (out of 8394)
+[orientdb-jdbc] Map_CollectionViewAdd @ ODocument.java:2451 | remained=248 (out of 4158)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 2
+Iterator_RemoveOnce: 1
+Collection_UnsafeIterator: 1
+Map_CollectionViewAdd: 1

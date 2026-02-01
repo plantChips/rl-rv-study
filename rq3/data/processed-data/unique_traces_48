@@ -1,0 +1,8 @@
+[rtree-multi] List_UnsynchronizedSubList @ SplitterRStar.java:91 | remained=8712 (out of 176362)
+[orientdb-jdbc] Collection_UnsafeIterator @ OSchemaShared.java:811 | remained=37 (out of 190)
+[asterisk-java] Collections_SortBeforeBinarySearch @ ClassFile.java:673 | remained=15 (out of 192)
+
+=== SPEC STATISTICS ===
+List_UnsynchronizedSubList: 1
+Collection_UnsafeIterator: 1
+Collections_SortBeforeBinarySearch: 1

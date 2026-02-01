@@ -1,0 +1,25 @@
+[choco-graph] Collection_UnsafeIterator @ PropGirth.java:90 | remained=150904 (out of 3016845)
+[choco-graph] Iterator_HasNext @ PropGirth.java:90 | remained=43374 (out of 3016845)
+[btree4j] Iterator_RemoveOnce @ BTreeIndex.java:421 | remained=1839 (out of 36458)
+[btree4j] Collection_UnsafeIterator @ BTreeIndex.java:421 | remained=1827 (out of 36458)
+[btree4j] Iterator_HasNext @ BTreeIndex.java:421 | remained=1825 (out of 36458)
+[progex] Iterator_HasNext @ PredictionMode.java:470 | remained=1815 (out of 1815)
+[progex] Map_UnsafeIterator @ PredictionMode.java:470 | remained=1815 (out of 1815)
+[jackcess] Iterator_RemoveOnce @ IndexData.java:1175 | remained=170 (out of 2248)
+[functional-utils] Collections_SortBeforeBinarySearch @ Iterables.java:329 | remained=154 (out of 154)
+[progex] Collection_UnsafeIterator @ PredictionMode.java:470 | remained=126 (out of 1815)
+[functional-utils] Iterator_HasNext @ Iterables.java:325 | remained=37 (out of 255)
+[functional-utils] Iterator_RemoveOnce @ Iterables.java:325 | remained=35 (out of 255)
+[functional-utils] Collection_UnsafeIterator @ Iterables.java:325 | remained=24 (out of 255)
+[java-concurrent-hash-trie-map] Iterator_HasNext @ TrieMap.java:1517 | remained=18 (out of 98)
+[asterisk-java] Appendable_ThreadSafe @ FastScannerRandomTest.java:108 | remained=0 (out of 0)
+[asterisk-java] StringBuilder_ThreadSafe @ FastScannerRandomTest.java:108 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 5
+Collection_UnsafeIterator: 4
+Iterator_RemoveOnce: 3
+Map_UnsafeIterator: 1
+Collections_SortBeforeBinarySearch: 1
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1

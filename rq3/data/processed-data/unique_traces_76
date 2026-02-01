@@ -1,0 +1,6 @@
+[TurkishMorphologicalDisambiguation] Iterator_HasNext @ NGramNode.java:187 | remained=80 (out of 1282)
+[jackcess] Collection_UnsafeIterator @ TableImpl.java:1268 | remained=40 (out of 50)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 1
+Collection_UnsafeIterator: 1

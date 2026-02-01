@@ -1,0 +1,7 @@
+Appendable_ThreadSafe @ MertonModelTest.java:124: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ MertonModelTest.java:126: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 7 Remained 
+Appendable_ThreadSafe @ MertonModelTest.java:131: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 2 Unique Traces, 298 Redundant Traces, 1 Preserved, 29 Remained 
+StringBuilder_ThreadSafe @ MertonModelTest.java:124: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 3 Remained 
+StringBuilder_ThreadSafe @ MertonModelTest.java:126: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 3 Remained 
+StringBuilder_ThreadSafe @ MertonModelTest.java:131: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

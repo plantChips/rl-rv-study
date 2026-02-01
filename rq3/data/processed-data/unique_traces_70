@@ -1,0 +1,16 @@
+[kiara] Iterator_HasNext @ StoreSearch.java:241 | remained=274 (out of 4497)
+[kiara] Collection_UnsafeIterator @ StoreSearch.java:241 | remained=257 (out of 4497)
+[progex] Collection_UnsafeIterator @ PredictionMode.java:569 | remained=95 (out of 95)
+[progex] Iterator_HasNext @ PredictionMode.java:569 | remained=95 (out of 95)
+[progex] Iterator_RemoveOnce @ PredictionMode.java:569 | remained=95 (out of 95)
+[jackson-core] Appendable_ThreadSafe @ StringGenerationFromReaderTest.java:132 | remained=70 (out of 70)
+[jackson-core] Appendable_ThreadSafe @ StringGenerationTest.java:135 | remained=70 (out of 70)
+[jackson-core] StringBuilder_ThreadSafe @ StringGenerationFromReaderTest.java:132 | remained=70 (out of 70)
+[jackson-core] StringBuilder_ThreadSafe @ StringGenerationTest.java:135 | remained=70 (out of 70)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 2
+Collection_UnsafeIterator: 2
+Appendable_ThreadSafe: 2
+StringBuilder_ThreadSafe: 2
+Iterator_RemoveOnce: 1

@@ -1,0 +1,12 @@
+Appendable_ThreadSafe @ AbstractRandomVariableDifferentiableFactory.java:67: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Appendable_ThreadSafe @ RandomVariableDifferentiableAADFactory.java:125: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ RandomVariableDifferentiableADFactory.java:48: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ RandomVariableFromArrayFactory.java:64: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 
+Collections_SortBeforeBinarySearch @ RandomVariableDifferentiableAAD.java:120: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ RandomVariableDifferentiableAAD.java:126: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ RandomVariableDifferentiableAD.java:115: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ RandomVariableDifferentiableAD.java:121: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ AbstractRandomVariableDifferentiableFactory.java:67: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ RandomVariableDifferentiableAADFactory.java:125: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ RandomVariableDifferentiableADFactory.java:48: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ RandomVariableFromArrayFactory.java:64: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 

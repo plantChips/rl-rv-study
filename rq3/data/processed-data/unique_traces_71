@@ -1,0 +1,6 @@
+[QLExpress] Collections_SortBeforeBinarySearch @ ExpressParse.java:277 | remained=110442 (out of 110442)
+[jpoker] Map_UnsafeIterator @ DefaultConverterLookup.java:66 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+Map_UnsafeIterator: 1

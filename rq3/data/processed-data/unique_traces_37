@@ -1,0 +1,21 @@
+[orientdb-jdbc] Map_UnsafeIterator @ OStorageConfiguration.java:430 | remained=705 (out of 705)
+[cocolian-nlp] Iterator_HasNext @ NumberRecognitor.java:150 | remained=446 (out of 6955)
+[cocolian-nlp] Collection_UnsafeIterator @ DefaultTermGraph.java:164 | remained=395 (out of 6955)
+[cocolian-nlp] Iterator_HasNext @ DefaultTermGraph.java:164 | remained=390 (out of 6955)
+[cocolian-nlp] Collection_UnsafeIterator @ NumberRecognitor.java:150 | remained=389 (out of 6955)
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ AbstractPathElement.java:112 | remained=379 (out of 6955)
+[cocolian-nlp] Iterator_RemoveOnce @ NumberRecognitor.java:150 | remained=369 (out of 6955)
+[cocolian-nlp] Iterator_RemoveOnce @ DefaultTermGraph.java:164 | remained=361 (out of 6955)
+[TurkishWordNet] Collection_UnsafeIterator @ WordNet.java:461 | remained=322 (out of 5578)
+[orientdb-jdbc] Collection_UnsafeIterator @ ORecordSerializerBinaryV0.java:728 | remained=160 (out of 2918)
+[cocolian-nlp] Iterator_RemoveOnce @ TestPOS.java:81 | remained=45 (out of 45)
+[orientdb-jdbc] Iterator_HasNext @ OImmutableSchema.java:50 | remained=22 (out of 139)
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ PcuCommonUtil.java:20 | remained=14 (out of 20)
+[kiara] Collections_SortBeforeBinarySearch @ StoreSearch.java:930 | remained=5 (out of 31)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 4
+Iterator_HasNext: 3
+Collections_SortBeforeBinarySearch: 3
+Iterator_RemoveOnce: 3
+Map_UnsafeIterator: 1

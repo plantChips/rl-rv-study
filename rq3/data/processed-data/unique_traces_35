@@ -1,0 +1,31 @@
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ TreeSingleSourcePathsImpl.java:143 | remained=2430 (out of 48909)
+[cocolian-nlp] Iterator_RemoveOnce @ DefaultTermGraph.java:173 | remained=2177 (out of 41917)
+[cocolian-nlp] Iterator_HasNext @ DefaultTermGraph.java:173 | remained=2164 (out of 41917)
+[cocolian-nlp] Collection_UnsafeIterator @ DefaultTermGraph.java:173 | remained=2092 (out of 41917)
+[cocolian-nlp] ListIterator_RemoveOnce @ DefaultTermGraph.java:173 | remained=2066 (out of 41917)
+[orientdb-jdbc] StringBuilder_ThreadSafe @ OSQLTarget.java:94 | remained=1828 (out of 1828)
+[cocolian-nlp] Iterator_HasNext @ AbstractRecognitor.java:146 | remained=1089 (out of 20941)
+[cocolian-nlp] Iterator_RemoveOnce @ AbstractRecognitor.java:146 | remained=1049 (out of 20941)
+[cocolian-nlp] Collection_UnsafeIterator @ AbstractRecognitor.java:146 | remained=1026 (out of 20941)
+[orientdb-jdbc] Map_UnsafeIterator @ OIndexManagerShared.java:259 | remained=621 (out of 621)
+[java-vector-tile] Collection_UnsafeIterator @ EdgeEndStar.java:100 | remained=497 (out of 497)
+[cocolian-nlp] Iterator_HasNext @ SimpleDetector.java:149 | remained=225 (out of 225)
+[jcunit] Collection_UnsafeIterator @ IpoGplus.java:161 | remained=91 (out of 91)
+[cocolian-nlp] Iterator_HasNext @ KShortestPaths.java:156 | remained=65 (out of 1087)
+[cocolian-nlp] Collection_UnsafeIterator @ SimpleDetector.java:169 | remained=38 (out of 225)
+[orientdb-jdbc] Iterator_RemoveOnce @ OTrackedList.java:85 | remained=30 (out of 179)
+[cocolian-nlp] Iterator_RemoveOnce @ SimpleDetector.java:158 | remained=30 (out of 225)
+[PointCloudUtilities] Collection_UnsafeIterator @ BoundingBox.java:64 | remained=22 (out of 22)
+[PointCloudUtilities] Iterator_HasNext @ BoundingBox.java:64 | remained=22 (out of 22)
+[PointCloudUtilities] Iterator_RemoveOnce @ BoundingBox.java:64 | remained=12 (out of 22)
+[PointCloudUtilities] Iterator_RemoveOnce @ Graphs.java:30 | remained=10 (out of 10)
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ SimpleSpellChecker.java:80 | remained=4 (out of 18)
+
+=== SPEC STATISTICS ===
+Iterator_RemoveOnce: 6
+Collection_UnsafeIterator: 6
+Iterator_HasNext: 5
+Collections_SortBeforeBinarySearch: 2
+ListIterator_RemoveOnce: 1
+StringBuilder_ThreadSafe: 1
+Map_UnsafeIterator: 1

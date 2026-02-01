@@ -1,0 +1,16 @@
+Appendable_ThreadSafe @ RootFindersTest.java:54: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ RootFindersTest.java:68: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ RootFindersTest.java:69: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ RootFindersTest.java:70: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ RootFindersTest.java:77: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Appendable_ThreadSafe @ RootFindersTest.java:91: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Appendable_ThreadSafe @ RootFindersTest.java:92: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Appendable_ThreadSafe @ RootFindersTest.java:93: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:54: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:68: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:69: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:70: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:77: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:91: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:92: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ RootFindersTest.java:93: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 

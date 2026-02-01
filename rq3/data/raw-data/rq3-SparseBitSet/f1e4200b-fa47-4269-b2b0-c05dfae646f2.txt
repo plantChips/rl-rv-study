@@ -1,0 +1,15 @@
+Appendable_ThreadSafe @ PreviousClearBitTest.java:184: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 515 Remained 
+Appendable_ThreadSafe @ PreviousClearBitTest.java:205: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 578 Remained 
+Appendable_ThreadSafe @ PreviousSetBitTest.java:195: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 461 Remained 
+Appendable_ThreadSafe @ PreviousSetBitTest.java:229: 1 Unique Traces, 19999 Redundant Traces, 1 Preserved, 1033 Remained 
+Collection_UnsafeIterator @ PreviousSetBitTest.java:222: 19438 Unique Traces, 562 Redundant Traces, 19438 Preserved, 562 Remained 
+Collections_SortBeforeBinarySearch @ PreviousSetBitTest.java:217: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+InputStream_ManipulateAfterClose @ SerializationTest.java:80: 1 Unique Traces, 99 Redundant Traces, 1 Preserved, 19 Remained 
+InputStream_MarkAfterClose @ SerializationTest.java:80: 1 Unique Traces, 99 Redundant Traces, 1 Preserved, 38 Remained 
+Iterator_HasNext @ PreviousSetBitTest.java:222: 1001 Unique Traces, 18999 Redundant Traces, 1001 Preserved, 18999 Remained 
+Iterator_RemoveOnce @ PreviousSetBitTest.java:222: 1000 Unique Traces, 19000 Redundant Traces, 1000 Preserved, 19000 Remained 
+OutputStream_ManipulateAfterClose @ SerializationTest.java:74: 1 Unique Traces, 99 Redundant Traces, 1 Preserved, 8 Remained 
+StringBuilder_ThreadSafe @ PreviousClearBitTest.java:184: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 483 Remained 
+StringBuilder_ThreadSafe @ PreviousClearBitTest.java:205: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 504 Remained 
+StringBuilder_ThreadSafe @ PreviousSetBitTest.java:195: 1 Unique Traces, 9999 Redundant Traces, 1 Preserved, 499 Remained 
+StringBuilder_ThreadSafe @ PreviousSetBitTest.java:229: 1 Unique Traces, 19999 Redundant Traces, 1 Preserved, 1013 Remained 

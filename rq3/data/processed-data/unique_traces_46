@@ -1,0 +1,12 @@
+[Jaba] Collections_SortBeforeBinarySearch @ Jaba.java:147 | remained=60966 (out of 60966)
+[progex] Iterator_RemoveOnce @ IntervalSet.java:117 | remained=2233 (out of 2233)
+[QLExpress] StringBuilder_ThreadSafe @ WordSplit.java:153 | remained=38 (out of 342)
+[stringsearchalgorithms] Iterator_HasNext @ AhoCorasick.java:138 | remained=26 (out of 123)
+[QLExpress] Appendable_ThreadSafe @ WordSplit.java:153 | remained=25 (out of 342)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+Iterator_RemoveOnce: 1
+StringBuilder_ThreadSafe: 1
+Iterator_HasNext: 1
+Appendable_ThreadSafe: 1

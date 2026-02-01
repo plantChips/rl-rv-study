@@ -1,0 +1,8 @@
+[ASM-NonClassloadingExtensions] Appendable_ThreadSafe @ Type.java:634 | remained=8257 (out of 8257)
+[ASM-NonClassloadingExtensions] StringBuilder_ThreadSafe @ Type.java:634 | remained=8257 (out of 8257)
+[progex] ListIterator_Set @ IntervalSet.java:116 | remained=247 (out of 3687)
+
+=== SPEC STATISTICS ===
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1
+ListIterator_Set: 1

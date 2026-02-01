@@ -1,0 +1,36 @@
+[route53-infima] Map_UnsafeIterator @ Lattice.java:229 | remained=13082 (out of 391231)
+[JaroWinklerSimilarity] Iterator_RemoveOnce @ TrieSet.java:509 | remained=12670 (out of 252205)
+[java-vector-tile] Collections_SortBeforeBinarySearch @ VectorTile.java:2883 | remained=10112 (out of 10112)
+[progex] Collections_SortBeforeBinarySearch @ JavaDDGBuilder.java:772 | remained=849 (out of 849)
+[cocolian-nlp] Iterator_HasNext @ NatureRecognitor.java:61 | remained=401 (out of 6962)
+[cocolian-nlp] Iterator_RemoveOnce @ NatureRecognitor.java:36 | remained=390 (out of 6962)
+[cocolian-nlp] Collection_UnsafeIterator @ NatureRecognitor.java:61 | remained=380 (out of 6962)
+[cocolian-nlp] ListIterator_RemoveOnce @ NatureRecognitor.java:61 | remained=379 (out of 6962)
+[cocolian-nlp] Iterator_HasNext @ NatureRecognitor.java:36 | remained=377 (out of 6962)
+[cocolian-nlp] Collection_UnsafeIterator @ NatureRecognitor.java:36 | remained=373 (out of 6962)
+[cocolian-nlp] Iterator_RemoveOnce @ NatureRecognitor.java:61 | remained=360 (out of 6962)
+[TurkishWordNet] Iterator_HasNext @ WordNet.java:461 | remained=302 (out of 5538)
+[jackcess] Collection_UnsafeIterator @ IndexPageCache.java:1451 | remained=225 (out of 225)
+[java-vector-tile] Iterator_RemoveOnce @ MCIndexNoder.java:100 | remained=133 (out of 2277)
+[QLExpress] StringBuilder_ThreadSafe @ WordSplit.java:48 | remained=61 (out of 275)
+[java-vector-tile] Collections_SortBeforeBinarySearch @ STRtree.java:160 | remained=29 (out of 81)
+[QLExpress] Appendable_ThreadSafe @ WordSplit.java:48 | remained=23 (out of 275)
+[jackcess] Appendable_ThreadSafe @ Expressionator.java:1405 | remained=23 (out of 23)
+[jackcess] StringBuilder_ThreadSafe @ Expressionator.java:1405 | remained=23 (out of 23)
+[java-vector-tile] Iterator_HasNext @ AbstractSTRtree.java:147 | remained=22 (out of 81)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351 | remained=20 (out of 96)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ DoubleArrayCharFallbackTrieCompiler.java:30 | remained=18 (out of 147)
+[java-vector-tile] Iterator_RemoveOnce @ AbstractSTRtree.java:148 | remained=14 (out of 81)
+[java-vector-tile] Collection_UnsafeIterator @ AbstractSTRtree.java:147 | remained=13 (out of 81)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351 | remained=11 (out of 54)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351 | remained=9 (out of 12)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 7
+Iterator_RemoveOnce: 5
+Iterator_HasNext: 4
+Collection_UnsafeIterator: 4
+StringBuilder_ThreadSafe: 2
+Appendable_ThreadSafe: 2
+Map_UnsafeIterator: 1
+ListIterator_RemoveOnce: 1

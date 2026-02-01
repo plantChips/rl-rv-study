@@ -1,0 +1,37 @@
+[jieba-analysis] Collections_SortBeforeBinarySearch @ JiebaSegmenter.java:171 | remained=140147 (out of 140147)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:296 | remained=28417 (out of 28417)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:296 | remained=17547 (out of 17547)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:296 | remained=16657 (out of 16657)
+[QLExpress] Appendable_ThreadSafe @ QLPatternNode.java:167 | remained=7772 (out of 157111)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:296 | remained=4657 (out of 4657)
+[stringsearchalgorithms] Iterator_HasNext @ GlushkovAnalyzer.java:367 | remained=2666 (out of 53760)
+[stringsearchalgorithms] Collection_UnsafeIterator @ GlushkovAnalyzer.java:367 | remained=2616 (out of 53760)
+[rtree2] List_UnsynchronizedSubList @ RTree.java:397 | remained=638 (out of 13209)
+[PointCloudUtilities] Iterator_RemoveOnce @ Octree.java:146 | remained=575 (out of 11203)
+[time-series-math] Appendable_ThreadSafe @ Type.java:582 | remained=158 (out of 158)
+[time-series-math] StringBuilder_ThreadSafe @ Type.java:582 | remained=158 (out of 158)
+[javadbf] Collections_SortBeforeBinarySearch @ DBFReader.java:391 | remained=138 (out of 2225)
+[stringsearchalgorithms] Iterator_HasNext @ GlushkovAnalyzer.java:352 | remained=93 (out of 93)
+[stringsearchalgorithms] Iterator_RemoveOnce @ GlushkovAnalyzer.java:352 | remained=93 (out of 93)
+[kiara] Collections_SortBeforeBinarySearch @ LogicalUtil.java:283 | remained=92 (out of 92)
+[stringsearchalgorithms] Collection_UnsafeIterator @ GlushkovAnalyzer.java:352 | remained=90 (out of 93)
+[orientdb-jdbc] Map_UnsafeIterator @ ORuntimeResult.java:81 | remained=84 (out of 84)
+[attoparser] StringBuilder_ThreadSafe @ MarkupSelectorItem.java:127 | remained=63 (out of 105)
+[attoparser] Appendable_ThreadSafe @ MarkupSelectorItem.java:127 | remained=37 (out of 105)
+[gramtest] Collection_UnsafeIterator @ ATNConfigSet.java:294 | remained=36 (out of 404)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:525 | remained=29 (out of 97)
+[java-vector-tile] Iterator_RemoveOnce @ STRtree.java:159 | remained=19 (out of 32)
+[java-vector-tile] Collection_UnsafeIterator @ STRtree.java:154 | remained=11 (out of 32)
+[stringsearchalgorithms] Map_UnsafeIterator @ GlushkovAnalyzer.java:352 | remained=11 (out of 93)
+[java-vector-tile] Iterator_HasNext @ STRtree.java:158 | remained=10 (out of 32)
+[orientdb-jdbc] Iterator_RemoveOnce @ OSQLEngine.java:362 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 8
+Collection_UnsafeIterator: 4
+Iterator_RemoveOnce: 4
+Appendable_ThreadSafe: 3
+Iterator_HasNext: 3
+StringBuilder_ThreadSafe: 2
+Map_UnsafeIterator: 2
+List_UnsynchronizedSubList: 1

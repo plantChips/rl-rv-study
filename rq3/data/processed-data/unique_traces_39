@@ -1,0 +1,19 @@
+[progex] Collection_UnsafeIterator @ FlexibleHashMap.java:87 | remained=2486 (out of 49062)
+[cocolian-nlp] Collection_UnsafeIterator @ DefaultTermPath.java:211 | remained=2099 (out of 41913)
+[cocolian-nlp] Iterator_RemoveOnce @ DefaultTermPath.java:211 | remained=2082 (out of 41913)
+[cocolian-nlp] Iterator_HasNext @ DefaultTermPath.java:211 | remained=2061 (out of 41913)
+[ASM-NonClassloadingExtensions] Collections_SortBeforeBinarySearch @ MethodNode.java:488 | remained=1950 (out of 36643)
+[Fuzzino] Iterator_HasNext @ SimpleStringCaseOperator.java:109 | remained=118 (out of 809)
+[progex] Collections_SortBeforeBinarySearch @ JavaClass.java:60 | remained=44 (out of 441)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:226 | remained=39 (out of 39)
+[orientdb-jdbc] StringBuilder_ThreadSafe @ OCommandExecutorAbstract.java:142 | remained=29 (out of 253)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ ByteWordSetBuilder.java:100 | remained=13 (out of 111)
+[PointCloudUtilities] Map_UnsafeIterator @ Graphs.java:30 | remained=3 (out of 3)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 3
+Collection_UnsafeIterator: 2
+Iterator_HasNext: 2
+Map_UnsafeIterator: 2
+Iterator_RemoveOnce: 1
+StringBuilder_ThreadSafe: 1

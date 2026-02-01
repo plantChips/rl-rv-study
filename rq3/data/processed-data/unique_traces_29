@@ -1,0 +1,21 @@
+[java-vector-tile] Iterator_RemoveOnce @ VectorTileDecoder.java:321 | remained=10054 (out of 10055)
+[TurkishSpellChecker] Collection_UnsafeIterator @ TrieNode.java:42 | remained=4867 (out of 95864)
+[TurkishSpellChecker] Iterator_HasNext @ TrieNode.java:42 | remained=4770 (out of 95864)
+[orientdb-jdbc] Collection_UnsafeIterator @ OStorageConfiguration.java:380 | remained=712 (out of 712)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:431 | remained=375 (out of 375)
+[time-series-math] Appendable_ThreadSafe @ SignatureWriter.java:117 | remained=112 (out of 112)
+[time-series-math] StringBuilder_ThreadSafe @ SignatureWriter.java:117 | remained=112 (out of 112)
+[jackcess] Collections_SortBeforeBinarySearch @ IndexData.java:2780 | remained=75 (out of 88)
+[Fuzzino] ListIterator_hasNextPrevious @ ComputableListImpl.java:234 | remained=11 (out of 77)
+[jackcess] Iterator_HasNext @ TableImpl.java:1752 | remained=7 (out of 23)
+[jpoker] Map_UnsafeIterator @ RuntimeGlue.java:114 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 2
+Iterator_HasNext: 2
+Collections_SortBeforeBinarySearch: 2
+Iterator_RemoveOnce: 1
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1
+ListIterator_hasNextPrevious: 1
+Map_UnsafeIterator: 1

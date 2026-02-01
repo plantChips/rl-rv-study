@@ -1,0 +1,11 @@
+[ASM-NonClassloadingExtensions] Collections_SortBeforeBinarySearch @ MethodNode.java:519 | remained=5676 (out of 111299)
+[jpoker] Iterator_HasNext @ IsCollectionContaining.java:24 | remained=771 (out of 771)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ WorkSet.java:82 | remained=252 (out of 252)
+[asterisk-java] Appendable_ThreadSafe @ FastScannerCrNl.java:53 | remained=9 (out of 9)
+[asterisk-java] StringBuilder_ThreadSafe @ FastScannerCrNl.java:53 | remained=9 (out of 9)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 2
+Iterator_HasNext: 1
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1

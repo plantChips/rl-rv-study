@@ -1,0 +1,13 @@
+[xeger] Appendable_ThreadSafe @ Xeger.java:193 | remained=11132 (out of 220037)
+[ASM-NonClassloadingExtensions] Collections_SortBeforeBinarySearch @ Util.java:57 | remained=4564 (out of 92679)
+[choco-graph] Iterator_HasNext @ PropConnected.java:106 | remained=333 (out of 333)
+[progex] ListIterator_RemoveOnce @ IntervalSet.java:117 | remained=151 (out of 2216)
+[dictomaton] Map_UnsafeIterator @ ImmutableStringIntMap.java:143 | remained=80 (out of 963)
+[QLExpress] Collections_SortBeforeBinarySearch @ QLMatchResult.java:20 | remained=28 (out of 28)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 2
+Appendable_ThreadSafe: 1
+Iterator_HasNext: 1
+ListIterator_RemoveOnce: 1
+Map_UnsafeIterator: 1

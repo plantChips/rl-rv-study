@@ -1,0 +1,43 @@
+[cocolian-nlp] Iterator_HasNext @ KShortestPathsIterator.java:157 | remained=14061 (out of 14062)
+[cocolian-nlp] Iterator_RemoveOnce @ KShortestPathsIterator.java:247 | remained=12960 (out of 12960)
+[QLExpress] Collection_UnsafeIterator @ NodeType.java:91 | remained=5685 (out of 114098)
+[QLExpress] Iterator_HasNext @ NodeType.java:91 | remained=5666 (out of 114098)
+[rtree] Collections_SortBeforeBinarySearch @ Visualizer.java:71 | remained=1241 (out of 24767)
+[orientdb-jdbc] Map_UnsafeIterator @ ORecordTrackedSet.java:67 | remained=1214 (out of 1214)
+[cocolian-nlp] Collection_UnsafeIterator @ KShortestPathsIterator.java:157 | remained=745 (out of 14062)
+[cocolian-nlp] Iterator_RemoveOnce @ KShortestPathsIterator.java:157 | remained=719 (out of 14062)
+[TurkishWordNet] Collection_UnsafeIterator @ WordNetTest.java:100 | remained=225 (out of 3918)
+[TurkishWordNet] Iterator_HasNext @ WordNetTest.java:100 | remained=215 (out of 3952)
+[orientdb-jdbc] Collection_UnsafeIterator @ ODatabaseDocumentTx.java:955 | remained=200 (out of 2670)
+[orientdb-jdbc] Iterator_HasNext @ ODocument.java:2309 | remained=193 (out of 3797)
+[orientdb-jdbc] Iterator_HasNext @ ODatabaseDocumentTx.java:955 | remained=180 (out of 2538)
+[orientdb-jdbc] Iterator_RemoveOnce @ ODatabaseDocumentTx.java:955 | remained=165 (out of 2503)
+[asterisk-java] Map_UnsafeIterator @ EventAttributesHelper.java:47 | remained=112 (out of 112)
+[time-series-math] Iterator_HasNext @ FilterableList.java:124 | remained=68 (out of 936)
+[dictomaton] Map_UnsafeIterator @ MapInterfaceTest.java:205 | remained=66 (out of 116)
+[time-series-math] Collection_UnsafeIterator @ FilterableList.java:124 | remained=64 (out of 936)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ GlushkovAnalyzer.java:68 | remained=61 (out of 172)
+[orientdb-jdbc] Appendable_ThreadSafe @ OStringSerializerHelper.java:461 | remained=33 (out of 441)
+[dictomaton] Map_UnsafeIterator @ MapInterfaceTest.java:158 | remained=32 (out of 116)
+[stringsearchalgorithms] Iterator_HasNext @ WorkSet.java:78 | remained=31 (out of 288)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ SetBackwardOracleMatching.java:262 | remained=29 (out of 29)
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ HMMTokenizer.java:126 | remained=26 (out of 250)
+[route53-infima] Iterator_RemoveOnce @ StatefulSearchingShuffleSharder.java:158 | remained=24 (out of 270)
+[pgs-calc] Map_CollectionViewAdd @ CommandLine.java:12353 | remained=22 (out of 91)
+[stringsearchalgorithms] Collection_UnsafeIterator @ WorkSet.java:78 | remained=21 (out of 288)
+[stringsearchalgorithms] Iterator_RemoveOnce @ WorkSet.java:78 | remained=18 (out of 288)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ SetBackwardOracleMatching.java:202 | remained=10 (out of 10)
+[jackcess] List_UnsynchronizedSubList @ IndexPageCache.java:646 | remained=5 (out of 52)
+[jieba-analysis] Collections_SortBeforeBinarySearch @ JiebaSegmenter.java:110 | remained=3 (out of 3)
+[java-vector-tile] Collection_UnsafeIterator @ SubgraphDepthLocater.java:66 | remained=3 (out of 3)
+[choco-graph] Iterator_HasNext @ ISet.java:115 | remained=2 (out of 2)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 8
+Collection_UnsafeIterator: 7
+Collections_SortBeforeBinarySearch: 6
+Iterator_RemoveOnce: 5
+Map_UnsafeIterator: 4
+Appendable_ThreadSafe: 1
+Map_CollectionViewAdd: 1
+List_UnsynchronizedSubList: 1

@@ -1,0 +1,16 @@
+Appendable_ThreadSafe @ BarrierOptionsTest.java:43: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 5 Remained 
+Appendable_ThreadSafe @ BarrierOptionsTest.java:66: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 5 Remained 
+Appendable_ThreadSafe @ BarrierOptionsTest.java:90: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ BarrierOptionsTest.java:113: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ BarrierOptionsTest.java:136: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 5 Remained 
+Appendable_ThreadSafe @ BarrierOptionsTest.java:159: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 5 Remained 
+Appendable_ThreadSafe @ BarrierOptionsTest.java:182: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ BarrierOptionsTest.java:205: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:43: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 5 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:66: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 4 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:90: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:113: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:136: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 4 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:159: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 5 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:182: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ BarrierOptionsTest.java:205: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 

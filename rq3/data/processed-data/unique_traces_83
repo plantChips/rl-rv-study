@@ -1,0 +1,8 @@
+[progex] ListIterator_hasNextPrevious @ IntervalSet.java:116 | remained=222 (out of 3679)
+[jackcess] Iterator_RemoveOnce @ TableImpl.java:1268 | remained=33 (out of 55)
+[stringsearchalgorithms] Collection_UnsafeIterator @ BufferedStringFinder.java:83 | remained=27 (out of 286)
+
+=== SPEC STATISTICS ===
+ListIterator_hasNextPrevious: 1
+Iterator_RemoveOnce: 1
+Collection_UnsafeIterator: 1

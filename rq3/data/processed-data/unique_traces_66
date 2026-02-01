@@ -1,0 +1,6 @@
+[TurkishSpellChecker] Map_CollectionViewAdd @ TrieNode.java:42 | remained=969 (out of 19836)
+[pgs-calc] Collections_SortBeforeBinarySearch @ CommandLine.java:18271 | remained=108 (out of 1854)
+
+=== SPEC STATISTICS ===
+Map_CollectionViewAdd: 1
+Collections_SortBeforeBinarySearch: 1

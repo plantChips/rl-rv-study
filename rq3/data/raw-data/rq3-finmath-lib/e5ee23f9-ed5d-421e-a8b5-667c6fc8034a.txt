@@ -1,0 +1,9 @@
+Appendable_ThreadSafe @ MonteCarloBlackScholesModelTest.java:72: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ MonteCarloBlackScholesModelTest.java:73: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ MonteCarloBlackScholesModelTest.java:116: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ MonteCarloBlackScholesModelTest.java:117: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 1 Unique Traces, 19 Redundant Traces, 1 Preserved, 13 Remained 
+StringBuilder_ThreadSafe @ MonteCarloBlackScholesModelTest.java:72: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ MonteCarloBlackScholesModelTest.java:73: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ MonteCarloBlackScholesModelTest.java:116: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ MonteCarloBlackScholesModelTest.java:117: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

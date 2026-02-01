@@ -1,0 +1,12 @@
+[JaroWinklerSimilarity] Collections_SortBeforeBinarySearch @ TrieMap.java:250 | remained=19986 (out of 1057199)
+[jackson-core] Appendable_ThreadSafe @ StringGenerationFromReaderTest.java:130 | remained=78 (out of 78)
+[jackson-core] Appendable_ThreadSafe @ StringGenerationTest.java:133 | remained=78 (out of 78)
+[jackson-core] StringBuilder_ThreadSafe @ StringGenerationFromReaderTest.java:130 | remained=78 (out of 78)
+[jackson-core] StringBuilder_ThreadSafe @ StringGenerationTest.java:133 | remained=78 (out of 78)
+[jackcess] Collection_UnsafeIterator @ TableUpdater.java:244 | remained=53 (out of 57)
+
+=== SPEC STATISTICS ===
+Appendable_ThreadSafe: 2
+StringBuilder_ThreadSafe: 2
+Collections_SortBeforeBinarySearch: 1
+Collection_UnsafeIterator: 1

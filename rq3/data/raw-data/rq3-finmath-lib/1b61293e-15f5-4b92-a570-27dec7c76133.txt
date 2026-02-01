@@ -1,0 +1,8 @@
+Appendable_ThreadSafe @ FPMLParser.java:171: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ FPMLParserTest.java:53: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ FPMLParserTest.java:95: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ FPMLParserTest.java:53: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ FPMLParser.java:171: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ FPMLParserTest.java:53: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ FPMLParserTest.java:95: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Throwable_InitCauseOnce @ FPMLParser.java:171: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

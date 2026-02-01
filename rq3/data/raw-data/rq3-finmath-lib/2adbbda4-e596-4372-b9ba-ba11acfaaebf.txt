@@ -1,0 +1,3 @@
+Appendable_ThreadSafe @ VarianceGammaModelTest.java:77: 1 Unique Traces, 6 Redundant Traces, 1 Preserved, 6 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 1 Unique Traces, 99 Redundant Traces, 1 Preserved, 26 Remained 
+StringBuilder_ThreadSafe @ VarianceGammaModelTest.java:77: 1 Unique Traces, 6 Redundant Traces, 1 Preserved, 6 Remained 

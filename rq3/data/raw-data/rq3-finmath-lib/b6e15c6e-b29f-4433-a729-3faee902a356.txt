@@ -1,0 +1,5 @@
+Collection_UnsafeIterator @ FundingCapacity.java:110: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 
+Iterator_HasNext @ FundingCapacity.java:110: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 
+Iterator_RemoveOnce @ FundingCapacity.java:110: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 3 Remained 
+Map_CollectionViewAdd @ FundingCapacity.java:110: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Map_UnsafeIterator @ FundingCapacity.java:110: 5 Unique Traces, 0 Redundant Traces, 4 Preserved, 0 Remained 

@@ -1,0 +1,4 @@
+[gramtest] Collection_UnsafeIterator @ GeneratorVisitor.java:221 | remained=45054 (out of 895909)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 1

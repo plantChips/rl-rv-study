@@ -1,0 +1,8 @@
+[xeger] StringBuilder_ThreadSafe @ Xeger.java:193 | remained=10855 (out of 220033)
+[cocolian-nlp] Collection_UnsafeIterator @ KShortestPathsIterator.java:253 | remained=2516 (out of 47977)
+[progex] Iterator_HasNext @ IntervalSet.java:116 | remained=211 (out of 3695)
+
+=== SPEC STATISTICS ===
+StringBuilder_ThreadSafe: 1
+Collection_UnsafeIterator: 1
+Iterator_HasNext: 1

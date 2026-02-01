@@ -1,0 +1,4 @@
+Appendable_ThreadSafe @ BlackScholesCallOptionTest.java:51: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ BlackScholesCallOptionTest.java:72: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ BlackScholesCallOptionTest.java:51: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ BlackScholesCallOptionTest.java:72: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

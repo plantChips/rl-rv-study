@@ -1,0 +1,13 @@
+Appendable_ThreadSafe @ DisplacedLognomalModelTest.java:137: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ DisplacedLognomalModelTest.java:138: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ DisplacedLognomalModelTest.java:139: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ DisplacedLognomalModelTest.java:140: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 1 Remained 
+Appendable_ThreadSafe @ DisplacedLognomalModelTest.java:141: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ DisplacedLognomalModelTest.java:142: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 1 Unique Traces, 1199 Redundant Traces, 1 Preserved, 71 Remained 
+StringBuilder_ThreadSafe @ DisplacedLognomalModelTest.java:137: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ DisplacedLognomalModelTest.java:138: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ DisplacedLognomalModelTest.java:139: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ DisplacedLognomalModelTest.java:140: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ DisplacedLognomalModelTest.java:141: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ DisplacedLognomalModelTest.java:142: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 

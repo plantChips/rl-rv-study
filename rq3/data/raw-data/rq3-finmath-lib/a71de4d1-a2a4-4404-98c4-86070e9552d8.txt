@@ -1,0 +1,1 @@
+Collections_SortBeforeBinarySearch @ FIPXMLParserTest.java:31: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

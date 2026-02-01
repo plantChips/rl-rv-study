@@ -1,0 +1,4 @@
+Appendable_ThreadSafe @ HestonModelTest.java:140: 1 Unique Traces, 13 Redundant Traces, 1 Preserved, 9 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 2 Unique Traces, 398 Redundant Traces, 1 Preserved, 77 Remained 
+Collections_SortBeforeBinarySearch @ HestonModelTest.java:54: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ HestonModelTest.java:140: 1 Unique Traces, 13 Redundant Traces, 1 Preserved, 13 Remained 

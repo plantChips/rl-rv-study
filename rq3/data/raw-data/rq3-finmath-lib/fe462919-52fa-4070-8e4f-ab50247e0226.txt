@@ -1,0 +1,12 @@
+Appendable_ThreadSafe @ BachelierModelTest.java:64: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ BachelierModelTest.java:100: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 6 Remained 
+Appendable_ThreadSafe @ BachelierModelTest.java:136: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 8 Remained 
+Appendable_ThreadSafe @ BachelierModelTest.java:172: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 4 Remained 
+Appendable_ThreadSafe @ BachelierModelTest.java:248: 1 Unique Traces, 274 Redundant Traces, 1 Preserved, 14 Remained 
+Appendable_ThreadSafe @ BachelierModelTest.java:274: 1 Unique Traces, 274 Redundant Traces, 1 Preserved, 28 Remained 
+StringBuilder_ThreadSafe @ BachelierModelTest.java:64: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 8 Remained 
+StringBuilder_ThreadSafe @ BachelierModelTest.java:100: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 3 Remained 
+StringBuilder_ThreadSafe @ BachelierModelTest.java:136: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 7 Remained 
+StringBuilder_ThreadSafe @ BachelierModelTest.java:172: 1 Unique Traces, 8 Redundant Traces, 1 Preserved, 8 Remained 
+StringBuilder_ThreadSafe @ BachelierModelTest.java:248: 1 Unique Traces, 274 Redundant Traces, 1 Preserved, 17 Remained 
+StringBuilder_ThreadSafe @ BachelierModelTest.java:274: 1 Unique Traces, 274 Redundant Traces, 1 Preserved, 38 Remained 

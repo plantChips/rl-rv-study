@@ -1,0 +1,36 @@
+[attoparser] StringBuilder_ThreadSafe @ MarkupParserTest.java:2223 | remained=111734 (out of 2228199)
+[attoparser] Collection_UnsafeIterator @ MarkupParserTest.java:2221 | remained=111304 (out of 2228199)
+[attoparser] Iterator_HasNext @ MarkupParserTest.java:2221 | remained=111304 (out of 2228199)
+[attoparser] Appendable_ThreadSafe @ MarkupParserTest.java:2223 | remained=111273 (out of 2228199)
+[attoparser] Iterator_RemoveOnce @ MarkupParserTest.java:2221 | remained=111189 (out of 2228199)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ Sentence.java:171 | remained=76407 (out of 76407)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ DummyDisambiguation.java:32 | remained=19083 (out of 19083)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ HmmDisambiguation.java:135 | remained=19083 (out of 19083)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ LongestRootFirstDisambiguation.java:95 | remained=19083 (out of 19083)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ RootFirstDisambiguation.java:168 | remained=19082 (out of 19082)
+[jieba-analysis] Appendable_ThreadSafe @ JiebaSegmenter.java:104 | remained=14295 (out of 284377)
+[jieba-analysis] StringBuilder_ThreadSafe @ JiebaSegmenter.java:198 | remained=11982 (out of 240229)
+[java-vector-tile] Iterator_RemoveOnce @ VectorTileDecoder.java:338 | remained=10045 (out of 10045)
+[java-vector-tile] Iterator_HasNext @ VectorTileDecoder.java:338 | remained=10044 (out of 10045)
+[progex] Collection_UnsafeIterator @ ParserRuleContext.java:249 | remained=9118 (out of 183419)
+[progex] Iterator_RemoveOnce @ ParserRuleContext.java:249 | remained=9090 (out of 183419)
+[progex] Iterator_HasNext @ ParserRuleContext.java:249 | remained=9051 (out of 183419)
+[progex] Iterator_RemoveOnce @ JavaDDGBuilder.java:550 | remained=730 (out of 14240)
+[TurkishMorphologicalDisambiguation] Collection_UnsafeIterator @ FsmParseList.java:146 | remained=416 (out of 8094)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ CharWordSetBuilder.java:61 | remained=336 (out of 336)
+[pgs-calc] StringBuilder_ThreadSafe @ CommandLine.java:18165 | remained=166 (out of 2302)
+[jackcess] Collection_UnsafeIterator @ QueryImpl.java:420 | remained=28 (out of 59)
+[Fuzzino] Collections_SortBeforeBinarySearch @ SimpleStringGenerator.java:56 | remained=23 (out of 66)
+[kiara] Collection_UnsafeIterator @ Condition.java:320 | remained=17 (out of 308)
+[functional-utils] Iterator_RemoveOnce @ Iterables.java:932 | remained=7 (out of 29)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:236 | remained=0 (out of 0)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:236 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 7
+Collection_UnsafeIterator: 5
+Iterator_RemoveOnce: 5
+StringBuilder_ThreadSafe: 3
+Iterator_HasNext: 3
+Appendable_ThreadSafe: 2
+Map_UnsafeIterator: 2

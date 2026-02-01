@@ -1,0 +1,10 @@
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:763 | remained=311 (out of 6521)
+[kiara] Iterator_RemoveOnce @ LogicalUtil.java:188 | remained=178 (out of 2045)
+[kiara] Iterator_HasNext @ LogicalUtil.java:188 | remained=145 (out of 2045)
+[kiara] Collection_UnsafeIterator @ LogicalUtil.java:188 | remained=138 (out of 2045)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+Iterator_RemoveOnce: 1
+Iterator_HasNext: 1
+Collection_UnsafeIterator: 1

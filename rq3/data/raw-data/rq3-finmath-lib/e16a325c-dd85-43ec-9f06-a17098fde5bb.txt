@@ -1,0 +1,2 @@
+Appendable_ThreadSafe @ VarianceGammaTest.java:54: 1 Unique Traces, 98 Redundant Traces, 1 Preserved, 11 Remained 
+StringBuilder_ThreadSafe @ VarianceGammaTest.java:54: 1 Unique Traces, 98 Redundant Traces, 1 Preserved, 49 Remained 

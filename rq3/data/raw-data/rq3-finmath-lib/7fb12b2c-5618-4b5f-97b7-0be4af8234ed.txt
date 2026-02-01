@@ -1,0 +1,7 @@
+Appendable_ThreadSafe @ SimpleCappedFlooredFloatingRateBondTest.java:90: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216: 80 Unique Traces, 80 Redundant Traces, 80 Preserved, 80 Remained 
+Collections_SortBeforeBinarySearch @ LIBORMarketModelFromCovarianceModel.java:960: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ LinearAlgebra.java:408: 1 Unique Traces, 3 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ SimpleCappedFlooredFloatingRateBondTest.java:90: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringTokenizer_HasMoreElements @ AbstractBusinessdayCalendar.java:87: 1 Unique Traces, 159 Redundant Traces, 1 Preserved, 28 Remained 

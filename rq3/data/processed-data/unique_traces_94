@@ -1,0 +1,8 @@
+[QLExpress] Collection_UnsynchronizedAddAll @ QLPattern.java:218 | remained=24 (out of 24)
+[asterisk-java] Iterator_HasNext @ FastScannerRandomTest.java:69 | remained=6 (out of 6)
+[asterisk-java] Iterator_RemoveOnce @ FastScannerRandomTest.java:69 | remained=6 (out of 6)
+
+=== SPEC STATISTICS ===
+Collection_UnsynchronizedAddAll: 1
+Iterator_HasNext: 1
+Iterator_RemoveOnce: 1

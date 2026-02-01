@@ -1,0 +1,30 @@
+[progex] Iterator_RemoveOnce @ ParserRuleContext.java:180 | remained=102890 (out of 2058594)
+[dictomaton] Map_UnsafeIterator @ LevenshteinAutomatonState.java:148 | remained=3275 (out of 130032)
+[time-series-math] Iterator_HasNext @ StackManipulation.java:242 | remained=881 (out of 881)
+[kiara] Iterator_RemoveOnce @ SpellCheckUtil.java:156 | remained=777 (out of 15204)
+[QLExpress] Collections_SortBeforeBinarySearch @ QLPatternNode.java:159 | remained=640 (out of 12448)
+[progex] Collections_SortBeforeBinarySearch @ JavaClass.java:45 | remained=426 (out of 426)
+[TurkishWordNet] Iterator_HasNext @ WordNetTest.java:82 | remained=239 (out of 4004)
+[TurkishDeasciifier] Iterator_RemoveOnce @ FsmMorphologicalAnalyzer.java:662 | remained=160 (out of 2436)
+[kiara] Collections_SortBeforeBinarySearch @ LogicalUtil.java:217 | remained=138 (out of 138)
+[gramtest] Collections_SortBeforeBinarySearch @ ParserRuleContext.java:130 | remained=103 (out of 862)
+[progex] Collection_UnsafeIterator @ PredictionMode.java:590 | remained=88 (out of 1161)
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ Sentence.java:171 | remained=84 (out of 84)
+[progex] Iterator_HasNext @ PredictionMode.java:590 | remained=80 (out of 1161)
+[progex] Iterator_RemoveOnce @ PredictionMode.java:590 | remained=79 (out of 1161)
+[progex] Map_UnsafeIterator @ PredictionMode.java:590 | remained=71 (out of 1161)
+[java-vector-tile] Iterator_RemoveOnce @ AbstractMessageLite.java:372 | remained=64 (out of 64)
+[time-series-math] Collection_UnsafeIterator @ StackManipulation.java:242 | remained=54 (out of 881)
+[jackson-core] Appendable_ThreadSafe @ JsonPointer.java:307 | remained=35 (out of 266)
+[jcunit] Collections_SortBeforeBinarySearch @ SchemafulTupleSet.java:55 | remained=26 (out of 203)
+[jackson-core] StringBuilder_ThreadSafe @ JsonPointer.java:306 | remained=23 (out of 266)
+[PointCloudUtilities] Map_UnsafeIterator @ CardinalInterpolator.java:70 | remained=16 (out of 16)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 6
+Iterator_RemoveOnce: 5
+Map_UnsafeIterator: 3
+Iterator_HasNext: 3
+Collection_UnsafeIterator: 2
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1

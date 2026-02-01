@@ -1,0 +1,18 @@
+[jackcess] Iterator_HasNext @ IndexData.java:1175 | remained=178 (out of 2186)
+[java-concurrent-hash-trie-map] Collection_UnsafeIterator @ TestMapIterator.java:23 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Collection_UnsafeIterator @ TestMapIterator.java:27 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Collection_UnsafeIterator @ TestMapIterator.java:30 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Collection_UnsafeIterator @ TestMapIterator.java:37 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Collection_UnsafeIterator @ TestMapIterator.java:46 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_HasNext @ TestMapIterator.java:23 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_HasNext @ TestMapIterator.java:27 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_HasNext @ TestMapIterator.java:30 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_HasNext @ TestMapIterator.java:37 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_HasNext @ TestMapIterator.java:46 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Map_UnsafeIterator @ TestMapIterator.java:37 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Map_UnsafeIterator @ TestMapIterator.java:46 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 6
+Collection_UnsafeIterator: 5
+Map_UnsafeIterator: 2

@@ -1,0 +1,28 @@
+[TurkishWordNet] Collections_SortBeforeBinarySearch @ Synonym.java:24 | remained=6493 (out of 130224)
+[progex] Iterator_HasNext @ JavaDDGBuilder.java:550 | remained=747 (out of 14233)
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:550 | remained=731 (out of 14233)
+[java-vector-tile] Collection_UnsafeIterator @ MCIndexNoder.java:99 | remained=170 (out of 2275)
+[java-vector-tile] Collections_SortBeforeBinarySearch @ AbstractSTRtree.java:317 | remained=139 (out of 2307)
+[java-vector-tile] Iterator_HasNext @ MCIndexNoder.java:99 | remained=123 (out of 2275)
+[stringsearchalgorithms] ListIterator_RemoveOnce @ CharWordSetBuilder.java:156 | remained=69 (out of 425)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ CharWordSetBuilder.java:141 | remained=66 (out of 425)
+[jackcess] Collections_SortBeforeBinarySearch @ IndexPageCache.java:339 | remained=60 (out of 410)
+[stringsearchalgorithms] Collection_UnsafeIterator @ CharWordSetBuilder.java:96 | remained=58 (out of 425)
+[stringsearchalgorithms] Collection_UnsafeIterator @ CharWordSetBuilder.java:153 | remained=50 (out of 425)
+[stringsearchalgorithms] Iterator_RemoveOnce @ CharWordSetBuilder.java:156 | remained=37 (out of 425)
+[stringsearchalgorithms] Iterator_HasNext @ CharWordSetBuilder.java:153 | remained=36 (out of 425)
+[stringsearchalgorithms] Collection_UnsafeIterator @ CharWordSetBuilder.java:156 | remained=35 (out of 425)
+[stringsearchalgorithms] Iterator_HasNext @ CharWordSetBuilder.java:156 | remained=33 (out of 425)
+[stringsearchalgorithms] Iterator_HasNext @ CharWordSetBuilder.java:97 | remained=32 (out of 425)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351 | remained=28 (out of 103)
+[jackcess] Iterator_RemoveOnce @ TableImpl.java:1752 | remained=18 (out of 28)
+[jackcess] Collection_UnsafeIterator @ TableImpl.java:1752 | remained=14 (out of 24)
+[stringsearchalgorithms] Map_UnsafeIterator @ MultiFactorRE.java:112 | remained=12 (out of 236)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 6
+Collections_SortBeforeBinarySearch: 5
+Iterator_HasNext: 5
+Iterator_RemoveOnce: 2
+ListIterator_RemoveOnce: 1
+Map_UnsafeIterator: 1

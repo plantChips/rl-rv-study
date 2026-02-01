@@ -1,0 +1,9 @@
+[orientdb-jdbc] Collection_UnsafeIterator @ OSQLEngine.java:354 | remained=131 (out of 131)
+[orientdb-jdbc] Iterator_HasNext @ OSQLEngine.java:354 | remained=131 (out of 131)
+[jackcess] Collections_SortBeforeBinarySearch @ IndexPageCache.java:1414 | remained=43 (out of 194)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ CharWordSetBuilder.java:74 | remained=38 (out of 392)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 2
+Collection_UnsafeIterator: 1
+Iterator_HasNext: 1

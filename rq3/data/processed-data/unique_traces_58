@@ -1,0 +1,8 @@
+[kiara] Collections_SortBeforeBinarySearch @ StoreLoader.java:421 | remained=176 (out of 3255)
+[orientdb-jdbc] Map_UnsafeIterator @ ORole.java:375 | remained=53 (out of 868)
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:513 | remained=30 (out of 426)
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ Graphs.java:35 | remained=17 (out of 17)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 3
+Map_UnsafeIterator: 1

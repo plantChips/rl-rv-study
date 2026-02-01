@@ -1,0 +1,13 @@
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ DefaultTermPath.java:83 | remained=2417 (out of 49267)
+[kiara] Iterator_RemoveOnce @ LogicalUtil.java:210 | remained=128 (out of 128)
+[pgs-calc] Iterator_RemoveOnce @ CommandLine.java:18270 | remained=124 (out of 1879)
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ Graphs.java:40 | remained=34 (out of 34)
+[choco-graph] Iterator_HasNext @ PropACyclic.java:199 | remained=25 (out of 41)
+[orientdb-jdbc] Map_UnsafeIterator @ Orient.java:608 | remained=0 (out of 0)
+[orientdb-jdbc] Map_UnsafeIterator @ Orient.java:617 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 2
+Iterator_RemoveOnce: 2
+Map_UnsafeIterator: 2
+Iterator_HasNext: 1

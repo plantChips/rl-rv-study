@@ -1,0 +1,6 @@
+[jackson-core] Appendable_ThreadSafe @ RawValueWithSurrogatesTest.java:79 | remained=97 (out of 97)
+[jackson-core] StringBuilder_ThreadSafe @ RawValueWithSurrogatesTest.java:79 | remained=97 (out of 97)
+
+=== SPEC STATISTICS ===
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1

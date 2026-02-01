@@ -1,0 +1,16 @@
+[rtree2] List_UnsynchronizedSubList @ SplitterRStar.java:96 | remained=8862 (out of 176363)
+[Jaba] Collections_SortBeforeBinarySearch @ AhoCorasickDoubleArrayTrie.java:745 | remained=7526 (out of 149022)
+[progex] Iterator_HasNext @ JavaClass.java:64 | remained=286 (out of 4987)
+[progex] Collection_UnsafeIterator @ JavaClass.java:64 | remained=280 (out of 4987)
+[stringsearchalgorithms] Iterator_HasNext @ BestFactorAnalyzer.java:78 | remained=191 (out of 2916)
+[stringsearchalgorithms] Iterator_RemoveOnce @ BestFactorAnalyzer.java:78 | remained=178 (out of 2916)
+[stringsearchalgorithms] Collection_UnsafeIterator @ BestFactorAnalyzer.java:78 | remained=151 (out of 2916)
+[Fuzzino] ListIterator_Set @ ComputableListImpl.java:181 | remained=22 (out of 53)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 2
+Collection_UnsafeIterator: 2
+List_UnsynchronizedSubList: 1
+Collections_SortBeforeBinarySearch: 1
+Iterator_RemoveOnce: 1
+ListIterator_Set: 1

@@ -1,0 +1,8 @@
+[QLExpress] Collections_SortBeforeBinarySearch @ ExpressParse.java:70 | remained=110454 (out of 110454)
+[progex] Iterator_RemoveOnce @ ParserATNSimulator.java:2031 | remained=475 (out of 8403)
+[stringsearchalgorithms] Map_UnsafeIterator @ CharWordSetBuilder.java:96 | remained=28 (out of 850)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+Iterator_RemoveOnce: 1
+Map_UnsafeIterator: 1

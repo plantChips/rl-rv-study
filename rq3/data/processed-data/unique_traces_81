@@ -1,0 +1,6 @@
+[orientdb-jdbc] Map_UnsafeIterator @ ODatabaseDocumentTx.java:955 | remained=59612 (out of 59612)
+[QLExpress] StringBuilder_ThreadSafe @ QLPatternNode.java:139 | remained=34019 (out of 34019)
+
+=== SPEC STATISTICS ===
+Map_UnsafeIterator: 1
+StringBuilder_ThreadSafe: 1

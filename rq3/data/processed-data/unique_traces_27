@@ -1,0 +1,25 @@
+[orientdb-jdbc] StringBuilder_ThreadSafe @ OStringSerializerHelper.java:322 | remained=9014 (out of 9014)
+[progex] Iterator_HasNext @ JavaDDGBuilder.java:464 | remained=6883 (out of 136824)
+[jcunit] Iterator_RemoveOnce @ CartesianEnumerator.java:84 | remained=3260 (out of 64001)
+[jcunit] ListIterator_RemoveOnce @ CartesianEnumerator.java:84 | remained=3186 (out of 64001)
+[orientdb-jdbc] StringBuilder_ThreadSafe @ OSQLPredicate.java:82 | remained=1826 (out of 1826)
+[orientdb-jdbc] Appendable_ThreadSafe @ OSQLPredicate.java:82 | remained=1825 (out of 1825)
+[jcunit] Collections_SortBeforeBinarySearch @ CartesianEnumeratorAdaptor.java:67 | remained=1675 (out of 31987)
+[jcunit] ListIterator_RemoveOnce @ CartesianEnumerator.java:20 | remained=1647 (out of 31987)
+[jcunit] Iterator_RemoveOnce @ CartesianEnumerator.java:20 | remained=1617 (out of 31987)
+[cocolian-nlp] Iterator_RemoveOnce @ KShortestPaths.java:157 | remained=1095 (out of 1095)
+[stringsearchalgorithms] Iterator_RemoveOnce @ BestFactorAnalyzer.java:211 | remained=72 (out of 1071)
+[stringsearchalgorithms] Iterator_HasNext @ BestFactorAnalyzer.java:211 | remained=68 (out of 1071)
+[attoparser] Iterator_RemoveOnce @ StringUtils.java:4041 | remained=53 (out of 617)
+[jcunit] Iterator_HasNext @ Parser.java:99 | remained=30 (out of 110)
+[TurkishDeasciifier] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:483 | remained=7 (out of 41)
+[progex] Collection_UnsafeIterator @ AbstractPropertyGraph.java:104 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Iterator_RemoveOnce: 5
+Iterator_HasNext: 3
+StringBuilder_ThreadSafe: 2
+ListIterator_RemoveOnce: 2
+Collections_SortBeforeBinarySearch: 2
+Appendable_ThreadSafe: 1
+Collection_UnsafeIterator: 1

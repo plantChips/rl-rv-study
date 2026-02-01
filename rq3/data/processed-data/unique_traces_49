@@ -1,0 +1,19 @@
+[sensitive-word] Appendable_ThreadSafe @ InnerWordFormatUtils.java:41 | remained=107743 (out of 2150349)
+[sensitive-word] StringBuilder_ThreadSafe @ InnerWordFormatUtils.java:41 | remained=107363 (out of 2150349)
+[gramtest] Iterator_HasNext @ GeneratorVisitor.java:220 | remained=14574 (out of 290001)
+[gramtest] ListIterator_RemoveOnce @ GeneratorVisitor.java:220 | remained=14562 (out of 290001)
+[gramtest] Iterator_RemoveOnce @ GeneratorVisitor.java:220 | remained=14428 (out of 290001)
+[orientdb-jdbc] ArrayDeque_UnsafeIterator @ OWALChangesTree.java:253 | remained=2497 (out of 49951)
+[cocolian-nlp] Map_CollectionViewAdd @ BasicTermNatures.java:46 | remained=418 (out of 7871)
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ SimpleDetector.java:69 | remained=125 (out of 125)
+[stringsearchalgorithms] Iterator_RemoveOnce @ BufferedStringFinder.java:37 | remained=85 (out of 211)
+
+=== SPEC STATISTICS ===
+Iterator_RemoveOnce: 2
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1
+Iterator_HasNext: 1
+ListIterator_RemoveOnce: 1
+ArrayDeque_UnsafeIterator: 1
+Map_CollectionViewAdd: 1
+Collections_SortBeforeBinarySearch: 1

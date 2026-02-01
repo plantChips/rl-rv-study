@@ -1,0 +1,16 @@
+[ASM-NonClassloadingExtensions] Collections_SortBeforeBinarySearch @ Frame.java:605 | remained=66467 (out of 1325636)
+[rtree-multi] List_UnsynchronizedSubList @ SplitterRStar.java:90 | remained=8775 (out of 176366)
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:644 | remained=947 (out of 17485)
+[progex] Iterator_RemoveOnce @ JavaDDGBuilder.java:644 | remained=927 (out of 17485)
+[progex] Iterator_HasNext @ JavaDDGBuilder.java:644 | remained=910 (out of 17485)
+[QLExpress] Appendable_ThreadSafe @ ExpressParse.java:440 | remained=156 (out of 156)
+[QLExpress] StringBuilder_ThreadSafe @ ExpressParse.java:440 | remained=156 (out of 156)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+List_UnsynchronizedSubList: 1
+Collection_UnsafeIterator: 1
+Iterator_RemoveOnce: 1
+Iterator_HasNext: 1
+Appendable_ThreadSafe: 1
+StringBuilder_ThreadSafe: 1

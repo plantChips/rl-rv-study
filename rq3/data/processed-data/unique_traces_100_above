@@ -1,0 +1,552 @@
+
+=== Unique Traces 101 ===
+[btree4j] Collections_SortBeforeBinarySearch @ BTreeIndex.java:403 | remained=335 (out of 6788)
+
+=== Unique Traces 103 ===
+[jackcess] Iterator_HasNext @ IndexData.java:1185 | remained=176 (out of 2218)
+
+=== Unique Traces 104 ===
+[progex] Iterator_RemoveOnce @ ATNState.java:171 | remained=484 (out of 484)
+[stringsearchalgorithms] Iterator_RemoveOnce @ ByteWordSetBuilder.java:98 | remained=46 (out of 46)
+
+=== Unique Traces 105 ===
+[progex] Collection_UnsafeIterator @ ParserATNSimulator.java:794 | remained=5062 (out of 5063)
+[progex] Iterator_HasNext @ ParserATNSimulator.java:794 | remained=5062 (out of 5063)
+[progex] Iterator_RemoveOnce @ ParserATNSimulator.java:794 | remained=300 (out of 5063)
+[jackcess] Iterator_RemoveOnce @ IndexData.java:1185 | remained=233 (out of 2365)
+
+=== Unique Traces 106 ===
+[choco-graph] Iterator_HasNext @ PropConnected.java:95 | remained=288 (out of 288)
+
+=== Unique Traces 107 ===
+[progex] Collection_UnsafeIterator @ PredictionMode.java:548 | remained=4294 (out of 4294)
+[progex] Iterator_HasNext @ PredictionMode.java:548 | remained=4294 (out of 4294)
+[progex] Iterator_RemoveOnce @ PredictionMode.java:548 | remained=4294 (out of 4294)
+[progex] Iterator_HasNext @ ATNState.java:171 | remained=2721 (out of 2721)
+[AnomalyDetectTool] Iterator_HasNext @ AlphabetTreeNode.java:63 | remained=234 (out of 234)
+[AnomalyDetectTool] Iterator_RemoveOnce @ AlphabetTreeNode.java:63 | remained=234 (out of 234)
+
+=== Unique Traces 108 ===
+[QLExpress] StringBuilder_ThreadSafe @ QLPatternNode.java:167 | remained=157026 (out of 157026)
+
+=== Unique Traces 109 ===
+[progex] Collection_UnsafeIterator @ ATNConfigSet.java:215 | remained=167 (out of 1851)
+[progex] Iterator_HasNext @ ATNConfigSet.java:215 | remained=129 (out of 1851)
+[progex] Iterator_RemoveOnce @ ATNConfigSet.java:215 | remained=127 (out of 1851)
+
+=== Unique Traces 110 ===
+[progex] Collections_SortBeforeBinarySearch @ ParserRuleContext.java:124 | remained=9443 (out of 190321)
+[progex] Collections_SortBeforeBinarySearch @ ATNConfigSet.java:149 | remained=588 (out of 10983)
+
+=== Unique Traces 114 ===
+[gramtest] Collections_SortBeforeBinarySearch @ GeneratorVisitor.java:217 | remained=5407 (out of 5407)
+[kiara] Collections_SortBeforeBinarySearch @ StoreLoader.java:505 | remained=215 (out of 3539)
+[java-vector-tile] Map_UnsafeIterator @ UnknownFieldSet.java:129 | remained=0 (out of 0)
+
+=== Unique Traces 116 ===
+[QLExpress] Collections_SortBeforeBinarySearch @ WordSplit.java:111 | remained=100109 (out of 100109)
+[kiara] Collections_SortBeforeBinarySearch @ StoreLoader.java:483 | remained=1976 (out of 39221)
+[stringsearchalgorithms] Iterator_RemoveOnce @ CharWordSetBuilder.java:98 | remained=341 (out of 341)
+
+=== Unique Traces 118 ===
+[orientdb-jdbc] Collection_UnsafeIterator @ ODocument.java:1373 | remained=819 (out of 15079)
+[progex] List_UnsafeListIterator @ IntervalSet.java:116 | remained=239 (out of 3644)
+
+=== Unique Traces 119 ===
+[JaroWinklerSimilarity] Iterator_RemoveOnce @ TrieMap.java:278 | remained=178231 (out of 3558849)
+
+=== Unique Traces 124 ===
+[jackcess] Appendable_ThreadSafe @ ExpressionTokenizer.java:367 | remained=37 (out of 369)
+[choco-graph] Iterator_HasNext @ PropArborescence.java:90 | remained=2 (out of 36)
+
+=== Unique Traces 126 ===
+[JaroWinklerSimilarity] Iterator_RemoveOnce @ TrieMap.java:149 | remained=789993 (out of 20178342)
+
+=== Unique Traces 127 ===
+[orientdb-jdbc] Collection_UnsafeIterator @ ODocument.java:2309 | remained=203 (out of 3750)
+
+=== Unique Traces 130 ===
+[attoparser] Collections_SortBeforeBinarySearch @ TraceBuilderMarkupHandler.java:91 | remained=482664 (out of 9650096)
+[orientdb-jdbc] Map_UnsafeIterator @ ODocument.java:539 | remained=10816 (out of 10816)
+[choco-graph] Iterator_HasNext @ PropArborescence.java:109 | remained=0 (out of 30)
+
+=== Unique Traces 132 ===
+[jcunit] Iterator_RemoveOnce @ CartesianEnumeratorAdaptor.java:34 | remained=1292 (out of 23417)
+
+=== Unique Traces 134 ===
+[jlemmagen] Map_UnsafeIterator @ LemmaTreeNode.java:321 | remained=1075 (out of 1075)
+
+=== Unique Traces 135 ===
+[xeger] Collection_UnsafeIterator @ MinimizationOperations.java:361 | remained=8518 (out of 171130)
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ RankingPathElementList.java:137 | remained=1024 (out of 19575)
+[Fuzzino] Collection_UnsafeIterator @ SimpleStringCaseOperator.java:109 | remained=77 (out of 713)
+[Fuzzino] Map_UnsafeIterator @ SimpleForeignDigitsOperator.java:396 | remained=0 (out of 0)
+
+=== Unique Traces 136 ===
+[kiara] Map_UnsafeIterator @ KeywordSearch.java:391 | remained=15 (out of 52)
+
+=== Unique Traces 137 ===
+[xeger] Collection_UnsafeIterator @ MinimizationOperations.java:335 | remained=3478 (out of 68277)
+
+=== Unique Traces 139 ===
+[Fuzzino] Appendable_ThreadSafe @ StringEncoder.java:104 | remained=234 (out of 3838)
+[Fuzzino] StringBuilder_ThreadSafe @ StringEncoder.java:104 | remained=191 (out of 3838)
+
+=== Unique Traces 141 ===
+[TurkishMorphologicalDisambiguation] Collection_UnsafeIterator @ FiniteStateMachine.java:148 | remained=559519 (out of 559519)
+[TurkishMorphologicalDisambiguation] Iterator_HasNext @ FiniteStateMachine.java:148 | remained=559519 (out of 559519)
+[TurkishMorphologicalDisambiguation] Iterator_RemoveOnce @ FiniteStateMachine.java:148 | remained=559519 (out of 559519)
+[TurkishSpellChecker] Collection_UnsafeIterator @ FiniteStateMachine.java:148 | remained=66845 (out of 66845)
+[TurkishSpellChecker] Iterator_HasNext @ FiniteStateMachine.java:148 | remained=66845 (out of 66845)
+[TurkishSpellChecker] Iterator_RemoveOnce @ FiniteStateMachine.java:148 | remained=66845 (out of 66845)
+[TurkishDeasciifier] Collection_UnsafeIterator @ FiniteStateMachine.java:148 | remained=2016 (out of 2016)
+[TurkishDeasciifier] Iterator_HasNext @ FiniteStateMachine.java:148 | remained=2016 (out of 2016)
+[TurkishDeasciifier] Iterator_RemoveOnce @ FiniteStateMachine.java:148 | remained=2016 (out of 2016)
+
+=== Unique Traces 145 ===
+[QLExpress] Collections_SortBeforeBinarySearch @ WordSplit.java:97 | remained=90 (out of 90)
+
+=== Unique Traces 150 ===
+[dictomaton] Iterator_RemoveOnce @ DictionaryBuilder.java:129 | remained=118 (out of 1055)
+
+=== Unique Traces 151 ===
+[dictomaton] Collection_UnsafeIterator @ DictionaryBuilder.java:129 | remained=148 (out of 1098)
+[dictomaton] Iterator_HasNext @ DictionaryBuilder.java:129 | remained=138 (out of 1098)
+
+=== Unique Traces 160 ===
+[jcunit] Iterator_HasNext @ CartesianEnumeratorAdaptor.java:29 | remained=1219 (out of 23389)
+
+=== Unique Traces 161 ===
+[JaroWinklerSimilarity] Collections_SortBeforeBinarySearch @ TrieMap.java:274 | remained=5512 (out of 110062)
+
+=== Unique Traces 162 ===
+[orientdb-jdbc] Map_UnsafeIterator @ ODocument.java:2345 | remained=215852 (out of 215852)
+
+=== Unique Traces 166 ===
+[choco-graph] Iterator_HasNext @ PropArborescences.java:115 | remained=3 (out of 38)
+
+=== Unique Traces 171 ===
+[Fuzzino] Map_UnsafeIterator @ SimpleForeignDigitsOperator.java:356 | remained=0 (out of 0)
+
+=== Unique Traces 173 ===
+[JaroWinklerSimilarity] Iterator_HasNext @ TrieMap.java:277 | remained=178423 (out of 3558795)
+[JaroWinklerSimilarity] ListIterator_Set @ TrieMap.java:276 | remained=178109 (out of 3558795)
+[JaroWinklerSimilarity] ListIterator_RemoveOnce @ TrieMap.java:278 | remained=178047 (out of 3558795)
+[JaroWinklerSimilarity] ListIterator_hasNextPrevious @ TrieMap.java:277 | remained=177738 (out of 3558795)
+
+=== Unique Traces 174 ===
+[choco-graph] Iterator_HasNext @ PropArborescences.java:129 | remained=1 (out of 30)
+
+=== Unique Traces 176 ===
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:521 | remained=456 (out of 8512)
+
+=== Unique Traces 177 ===
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:427 | remained=216 (out of 3387)
+
+=== Unique Traces 179 ===
+[JaroWinklerSimilarity] Iterator_HasNext @ TrieMap.java:148 | remained=1009050 (out of 20178289)
+
+=== Unique Traces 181 ===
+[PointCloudUtilities] Collection_UnsafeIterator @ Octree.java:213 | remained=348 (out of 348)
+[PointCloudUtilities] Iterator_HasNext @ Octree.java:213 | remained=348 (out of 348)
+[PointCloudUtilities] Iterator_RemoveOnce @ Octree.java:213 | remained=348 (out of 348)
+
+=== Unique Traces 182 ===
+[rtree-multi] Collection_UnsafeIterator @ SplitterQuadratic.java:83 | remained=341583 (out of 341583)
+[rtree2] Collection_UnsafeIterator @ SplitterQuadratic.java:77 | remained=17112 (out of 342277)
+
+=== Unique Traces 193 ===
+[stringsearchalgorithms] Collection_UnsafeIterator @ BufferedStringFinder.java:35 | remained=30 (out of 320)
+
+=== Unique Traces 198 ===
+[java-concurrent-hash-trie-map] Map_UnsafeIterator @ TestMapIterator.java:23 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Map_UnsafeIterator @ TestMapIterator.java:30 | remained=0 (out of 0)
+
+=== Unique Traces 199 ===
+[choco-graph] Collections_SortBeforeBinarySearch @ DecisionPath.java:55 | remained=637 (out of 637)
+
+=== Unique Traces 211 ===
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ NumberRecognitor.java:51 | remained=394 (out of 6781)
+
+=== Unique Traces 213 ===
+[TurkishMorphologicalDisambiguation] Iterator_HasNext @ NGramNode.java:150 | remained=26168 (out of 26168)
+[TurkishMorphologicalDisambiguation] Iterator_RemoveOnce @ NGramNode.java:187 | remained=26168 (out of 26168)
+[TurkishMorphologicalDisambiguation] Map_UnsafeIterator @ NGramNode.java:187 | remained=26168 (out of 26168)
+[TurkishMorphologicalDisambiguation] Collection_UnsafeIterator @ NGramNode.java:150 | remained=26167 (out of 26167)
+[TurkishMorphologicalDisambiguation] Collection_UnsafeIterator @ NGramNode.java:187 | remained=26167 (out of 26167)
+
+=== Unique Traces 214 ===
+[TurkishMorphologicalDisambiguation] Map_UnsafeIterator @ NGramNode.java:150 | remained=52548 (out of 52548)
+[route53-infima] Map_UnsafeIterator @ Lattice.java:243 | remained=6468 (out of 260920)
+[route53-infima] Map_UnsafeIterator @ Lattice.java:326 | remained=20 (out of 218)
+
+=== Unique Traces 215 ===
+[TurkishWordNet] Collections_SortBeforeBinarySearch @ SynSet.java:384 | remained=1850772 (out of 1850772)
+
+=== Unique Traces 220 ===
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:483 | remained=388 (out of 6005)
+
+=== Unique Traces 222 ===
+[progex] List_UnsynchronizedSubList @ JavaDDGBuilder.java:1042 | remained=2154 (out of 2154)
+
+=== Unique Traces 226 ===
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ Octree.java:221 | remained=171 (out of 3196)
+
+=== Unique Traces 233 ===
+[progex] Collection_UnsafeIterator @ ATNState.java:171 | remained=2595 (out of 2595)
+
+=== Unique Traces 235 ===
+[jlemmagen] Map_UnsafeIterator @ LemmaTreeNode.java:110 | remained=155 (out of 5917)
+
+=== Unique Traces 236 ===
+[rtree-multi] List_UnsynchronizedSubList @ RTree.java:398 | remained=3668 (out of 72417)
+
+=== Unique Traces 243 ===
+[java-vector-tile] Collections_SortBeforeBinarySearch @ VectorTile.java:1658 | remained=1014613 (out of 1014613)
+
+=== Unique Traces 245 ===
+[java-vector-tile] Collections_SortBeforeBinarySearch @ VectorTileDecoder.java:137 | remained=2003944 (out of 2003944)
+
+=== Unique Traces 246 ===
+[PointCloudUtilities] Collection_UnsafeIterator @ OctreeTest.java:65 | remained=73 (out of 73)
+[PointCloudUtilities] Iterator_HasNext @ OctreeTest.java:65 | remained=73 (out of 73)
+[PointCloudUtilities] Iterator_RemoveOnce @ OctreeTest.java:65 | remained=73 (out of 73)
+
+=== Unique Traces 254 ===
+[QLExpress] Collections_SortBeforeBinarySearch @ QLMatchResult.java:12 | remained=110168 (out of 110168)
+
+=== Unique Traces 261 ===
+[choco-graph] Collection_UnsafeIterator @ PropGirth.java:110 | remained=96438 (out of 1924303)
+
+=== Unique Traces 262 ===
+[orientdb-jdbc] Map_UnsafeIterator @ OSchemaShared.java:805 | remained=3067 (out of 3067)
+
+=== Unique Traces 263 ===
+[ik-analyzer] StringBuilder_ThreadSafe @ HHMMSegmenter.java:66 | remained=119137 (out of 119137)
+[ik-analyzer] Appendable_ThreadSafe @ HHMMSegmenter.java:70 | remained=6316 (out of 119137)
+
+=== Unique Traces 277 ===
+[choco-graph] Iterator_HasNext @ PropACyclic.java:121 | remained=19 (out of 244)
+
+=== Unique Traces 278 ===
+[choco-graph] Iterator_HasNext @ AbstractLengauerTarjanDominatorsFinder.java:162 | remained=2 (out of 86)
+
+=== Unique Traces 300 ===
+[Jaba] Iterator_RemoveOnce @ AhoCorasickDoubleArrayTrie.java:804 | remained=200769 (out of 200769)
+
+=== Unique Traces 301 ===
+[Jaba] Collection_UnsafeIterator @ AhoCorasickDoubleArrayTrie.java:804 | remained=497812 (out of 497812)
+[Jaba] Iterator_HasNext @ AhoCorasickDoubleArrayTrie.java:804 | remained=497811 (out of 497812)
+[Jaba] Map_UnsafeIterator @ AhoCorasickDoubleArrayTrie.java:804 | remained=25024 (out of 497812)
+[Jaba] Collections_SortBeforeBinarySearch @ AhoCorasickDoubleArrayTrie.java:741 | remained=17707 (out of 348744)
+[Jaba] Iterator_RemoveOnce @ AhoCorasickDoubleArrayTrie.java:743 | remained=10125 (out of 200769)
+
+=== Unique Traces 302 ===
+[Jaba] Iterator_HasNext @ AhoCorasickDoubleArrayTrie.java:743 | remained=42639 (out of 846857)
+[Jaba] Map_UnsafeIterator @ AhoCorasickDoubleArrayTrie.java:743 | remained=42464 (out of 846857)
+[Jaba] Collection_UnsafeIterator @ AhoCorasickDoubleArrayTrie.java:743 | remained=42201 (out of 846857)
+
+=== Unique Traces 303 ===
+[Jaba] Iterator_HasNext @ AhoCorasickDoubleArrayTrie.java:945 | remained=24998 (out of 497811)
+[Jaba] Collection_UnsafeIterator @ AhoCorasickDoubleArrayTrie.java:950 | remained=24983 (out of 497811)
+[Jaba] Iterator_HasNext @ AhoCorasickDoubleArrayTrie.java:950 | remained=24901 (out of 497811)
+[Jaba] Iterator_RemoveOnce @ AhoCorasickDoubleArrayTrie.java:945 | remained=24700 (out of 497811)
+[Jaba] Collection_UnsafeIterator @ AhoCorasickDoubleArrayTrie.java:945 | remained=24664 (out of 497811)
+[Jaba] Iterator_RemoveOnce @ AhoCorasickDoubleArrayTrie.java:950 | remained=19985 (out of 497811)
+
+=== Unique Traces 307 ===
+[AnomalyDetectTool] Collection_UnsafeIterator @ AlphabetTreeNode.java:63 | remained=34 (out of 34)
+
+=== Unique Traces 320 ===
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:529 | remained=12124 (out of 12124)
+
+=== Unique Traces 329 ===
+[choco-graph] Iterator_HasNext @ AbstractLengauerTarjanDominatorsFinder.java:133 | remained=85 (out of 85)
+[choco-graph] Iterator_HasNext @ AbstractLengauerTarjanDominatorsFinder.java:269 | remained=5 (out of 85)
+
+=== Unique Traces 333 ===
+[dictomaton] Iterator_HasNext @ DictionaryBuilder.java:310 | remained=154 (out of 925)
+[dictomaton] Collection_UnsafeIterator @ DictionaryBuilder.java:310 | remained=145 (out of 925)
+[dictomaton] Iterator_RemoveOnce @ DictionaryBuilder.java:310 | remained=121 (out of 925)
+
+=== Unique Traces 334 ===
+[dictomaton] Map_UnsafeIterator @ DictionaryBuilder.java:310 | remained=216 (out of 2182)
+
+=== Unique Traces 371 ===
+[TurkishSpellChecker] Collection_UnsafeIterator @ NGramNode.java:150 | remained=254437 (out of 254437)
+[TurkishSpellChecker] Collection_UnsafeIterator @ NGramNode.java:187 | remained=254437 (out of 254437)
+[TurkishSpellChecker] Iterator_HasNext @ NGramNode.java:150 | remained=254437 (out of 254437)
+[TurkishSpellChecker] Iterator_HasNext @ NGramNode.java:187 | remained=254437 (out of 254437)
+[TurkishSpellChecker] Iterator_RemoveOnce @ NGramNode.java:150 | remained=254437 (out of 254437)
+[TurkishDeasciifier] Collection_UnsafeIterator @ NGramNode.java:150 | remained=95182 (out of 95182)
+[TurkishDeasciifier] Collection_UnsafeIterator @ NGramNode.java:187 | remained=95182 (out of 95182)
+[TurkishDeasciifier] Iterator_HasNext @ NGramNode.java:187 | remained=95182 (out of 95182)
+[TurkishDeasciifier] Iterator_RemoveOnce @ NGramNode.java:150 | remained=95182 (out of 95182)
+[TurkishDeasciifier] Iterator_RemoveOnce @ NGramNode.java:187 | remained=95182 (out of 95182)
+[TurkishSpellChecker] Iterator_RemoveOnce @ NGramNode.java:187 | remained=12830 (out of 254437)
+[TurkishSpellChecker] Map_UnsafeIterator @ NGramNode.java:187 | remained=12812 (out of 254437)
+[TurkishDeasciifier] Iterator_HasNext @ NGramNode.java:150 | remained=4912 (out of 95182)
+
+=== Unique Traces 372 ===
+[TurkishSpellChecker] Map_UnsafeIterator @ NGramNode.java:150 | remained=509244 (out of 509244)
+
+=== Unique Traces 382 ===
+[dictomaton] Collections_SortBeforeBinarySearch @ DictionaryBuilder.java:263 | remained=143 (out of 878)
+
+=== Unique Traces 418 ===
+[progex] Collection_UnsafeIterator @ ATNConfigSet.java:294 | remained=26959 (out of 26959)
+
+=== Unique Traces 429 ===
+[rtree-multi] Iterator_RemoveOnce @ Iterables.java:84 | remained=34206 (out of 34206)
+
+=== Unique Traces 430 ===
+[rtree-multi] Iterator_HasNext @ Iterables.java:83 | remained=39585 (out of 39585)
+
+=== Unique Traces 444 ===
+[orientdb-jdbc] Collection_UnsafeIterator @ OWALChangesTree.java:374 | remained=2122 (out of 39557)
+
+=== Unique Traces 449 ===
+[dictomaton] Collections_SortBeforeBinarySearch @ LevenshteinAutomaton.java:101 | remained=551 (out of 551)
+
+=== Unique Traces 452 ===
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:513 | remained=8028 (out of 8028)
+
+=== Unique Traces 458 ===
+[choco-graph] Iterator_HasNext @ PropACyclic.java:138 | remained=52 (out of 250)
+
+=== Unique Traces 468 ===
+[orientdb-jdbc] ArrayDeque_UnsafeIterator @ OWALChangesTree.java:374 | remained=5011 (out of 99532)
+
+=== Unique Traces 470 ===
+[jieba-analysis] Arrays_SortBeforeBinarySearch @ DictSegment.java:225 | remained=11244 (out of 225612)
+
+=== Unique Traces 489 ===
+[PointCloudUtilities] Collection_UnsafeIterator @ OctreeTest.java:214 | remained=2638 (out of 2638)
+[PointCloudUtilities] Iterator_HasNext @ OctreeTest.java:214 | remained=2638 (out of 2638)
+[PointCloudUtilities] Iterator_RemoveOnce @ OctreeTest.java:214 | remained=2638 (out of 2638)
+
+=== Unique Traces 497 ===
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ Octree.java:290 | remained=365 (out of 2941)
+
+=== Unique Traces 499 ===
+[asterisk-java] Collection_UnsafeIterator @ ListenerManager.java:55 | remained=501 (out of 501)
+[asterisk-java] Iterator_HasNext @ ListenerManager.java:56 | remained=501 (out of 501)
+[asterisk-java] Iterator_RemoveOnce @ ListenerManager.java:57 | remained=501 (out of 501)
+
+=== Unique Traces 533 ===
+[jackcess] Collection_UnsafeIterator @ IndexData.java:1175 | remained=130 (out of 1809)
+
+=== Unique Traces 537 ===
+[jackcess] Collection_UnsafeIterator @ IndexData.java:1185 | remained=136 (out of 1827)
+
+=== Unique Traces 551 ===
+[QLExpress] Collections_SortBeforeBinarySearch @ QLPattern.java:158 | remained=16113 (out of 321826)
+
+=== Unique Traces 642 ===
+[progex] List_UnsynchronizedSubList @ JavaDDGBuilder.java:916 | remained=8652 (out of 8652)
+
+=== Unique Traces 679 ===
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:488 | remained=9950 (out of 9950)
+
+=== Unique Traces 743 ===
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:427 | remained=16817 (out of 16817)
+
+=== Unique Traces 769 ===
+[cocolian-nlp] Map_CollectionViewAdd @ DirectedSpecifics.java:102 | remained=49297 (out of 49297)
+
+=== Unique Traces 772 ===
+[jpoker] Collection_UnsafeIterator @ IsCollectionContaining.java:24 | remained=51 (out of 51)
+
+=== Unique Traces 876 ===
+[orientdb-jdbc] Map_UnsafeIterator @ OClassImpl.java:935 | remained=19597 (out of 19597)
+
+=== Unique Traces 918 ===
+[QLExpress] Collections_SortBeforeBinarySearch @ QLPattern.java:226 | remained=321760 (out of 321760)
+
+=== Unique Traces 928 ===
+[xeger] Collection_UnsafeIterator @ MinimizationOperations.java:331 | remained=13196 (out of 264933)
+
+=== Unique Traces 997 ===
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:521 | remained=46843 (out of 46843)
+
+=== Unique Traces 1000 ===
+[SparseBitSet] Iterator_RemoveOnce @ PreviousSetBitTest.java:222 | remained=19000 (out of 19000)
+[dictomaton] Collections_SortBeforeBinarySearch @ LevenshteinAutomatonState.java:125 | remained=0 (out of 0)
+
+=== Unique Traces 1001 ===
+[SparseBitSet] Iterator_HasNext @ PreviousSetBitTest.java:222 | remained=18999 (out of 18999)
+
+=== Unique Traces 1008 ===
+[btree4j] Collections_SortBeforeBinarySearch @ BTreeIndex.java:336 | remained=1798 (out of 35553)
+
+=== Unique Traces 1112 ===
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:483 | remained=30136 (out of 30136)
+
+=== Unique Traces 1125 ===
+[TurkishDeasciifier] Map_UnsafeIterator @ NGramNode.java:187 | remained=94428 (out of 94428)
+
+=== Unique Traces 1145 ===
+[TurkishDeasciifier] Map_UnsafeIterator @ NGramNode.java:150 | remained=158110 (out of 158110)
+
+=== Unique Traces 1177 ===
+[jackcess] Collection_UnsafeIterator @ IndexPageCache.java:123 | remained=67 (out of 515)
+
+=== Unique Traces 1188 ===
+[pgs-calc] Map_UnsafeIterator @ CommandLine.java:12353 | remained=4965 (out of 4965)
+
+=== Unique Traces 1234 ===
+[jackcess] Collection_UnsafeIterator @ IndexPageCache.java:198 | remained=24 (out of 450)
+
+=== Unique Traces 1455 ===
+[jlemmagen] Map_UnsafeIterator @ LemmaTreeNode.java:118 | remained=375 (out of 7215)
+
+=== Unique Traces 1499 ===
+[QLExpress] Collection_UnsynchronizedAddAll @ QLMatchResult.java:25 | remained=643671 (out of 643671)
+
+=== Unique Traces 1507 ===
+[QLExpress] Collection_UnsynchronizedAddAll @ QLPattern.java:158 | remained=15961 (out of 320870)
+
+=== Unique Traces 1557 ===
+[JaroWinklerSimilarity] Collection_UnsafeIterator @ TrieMap.java:147 | remained=131948 (out of 2637528)
+
+=== Unique Traces 1744 ===
+[dictomaton] Collection_UnsafeIterator @ CompactIntArrayTest.java:57 | remained=2256 (out of 2256)
+[dictomaton] Iterator_HasNext @ CompactIntArrayTest.java:57 | remained=2256 (out of 2256)
+[dictomaton] Iterator_RemoveOnce @ CompactIntArrayTest.java:57 | remained=2256 (out of 2256)
+
+=== Unique Traces 1754 ===
+[QLExpress] Collection_UnsynchronizedAddAll @ QLPattern.java:226 | remained=320924 (out of 320924)
+
+=== Unique Traces 2018 ===
+[Fuzzino] Appendable_ThreadSafe @ StringUtil.java:38 | remained=42155 (out of 42155)
+[Fuzzino] StringBuilder_ThreadSafe @ StringUtil.java:38 | remained=42155 (out of 42155)
+
+=== Unique Traces 2037 ===
+[QLExpress] Collection_UnsynchronizedAddAll @ QLMatchResultTree.java:50 | remained=100939 (out of 100940)
+
+=== Unique Traces 2267 ===
+[orientdb-jdbc] Map_UnsafeIterator @ ORecordSerializerBinaryV0.java:229 | remained=250008 (out of 250008)
+
+=== Unique Traces 2540 ===
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:756 | remained=18893 (out of 18893)
+
+=== Unique Traces 2699 ===
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:432 | remained=4631 (out of 92056)
+
+=== Unique Traces 2993 ===
+[QLExpress] Collection_UnsynchronizedAddAll @ QLMatchResultTree.java:43 | remained=423807 (out of 423807)
+
+=== Unique Traces 3626 ===
+[cocolian-nlp] Map_UnsafeIterator @ BasicTermNatures.java:46 | remained=1477 (out of 30510)
+
+=== Unique Traces 3743 ===
+[dictomaton] Collections_SortBeforeBinarySearch @ CompactIntArrayTest.java:133 | remained=50736 (out of 50736)
+
+=== Unique Traces 3823 ===
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:383 | remained=4519 (out of 90932)
+
+=== Unique Traces 3968 ===
+[JaroWinklerSimilarity] List_UnsafeListIterator @ TrieMap.java:276 | remained=177721 (out of 3555000)
+
+=== Unique Traces 4232 ===
+[JaroWinklerSimilarity] Collection_UnsafeIterator @ TrieMap.java:168 | remained=17535151 (out of 17535151)
+
+=== Unique Traces 4769 ===
+[PointCloudUtilities] Iterator_RemoveOnce @ ShortestPath.java:49 | remained=4776 (out of 4776)
+
+=== Unique Traces 4770 ===
+[PointCloudUtilities] Iterator_HasNext @ ShortestPath.java:35 | remained=4781 (out of 4781)
+[PointCloudUtilities] Iterator_RemoveOnce @ ShortestPath.java:35 | remained=4781 (out of 4781)
+[PointCloudUtilities] Iterator_HasNext @ ShortestPath.java:49 | remained=4779 (out of 4779)
+
+=== Unique Traces 4932 ===
+[jcunit] Map_UnsafeIterator @ Tuple.java:62 | remained=5301 (out of 5301)
+
+=== Unique Traces 5410 ===
+[cocolian-nlp] Collection_UnsafeIterator @ BellmanFordShortestPath.java:121 | remained=27597 (out of 554836)
+
+=== Unique Traces 5420 ===
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:464 | remained=6647 (out of 131431)
+
+=== Unique Traces 8522 ===
+[PointCloudUtilities] Collection_UnsafeIterator @ ShortestPath.java:35 | remained=1029 (out of 1029)
+
+=== Unique Traces 8523 ===
+[PointCloudUtilities] Collection_UnsafeIterator @ ShortestPath.java:49 | remained=1026 (out of 1026)
+
+=== Unique Traces 9063 ===
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:417 | remained=4512 (out of 85692)
+
+=== Unique Traces 9086 ===
+[jackcess] Map_UnsafeIterator @ IndexPageCache.java:1013 | remained=2290 (out of 2290)
+
+=== Unique Traces 9222 ===
+[kiara] Collections_SortBeforeBinarySearch @ LogicalUtil.java:399 | remained=12 (out of 21)
+
+=== Unique Traces 10053 ===
+[QLExpress] Map_UnsafeIterator @ InstructionSet.java:294 | remained=469 (out of 469)
+
+=== Unique Traces 12113 ===
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:396 | remained=4095 (out of 82642)
+
+=== Unique Traces 15099 ===
+[cocolian-nlp] Map_UnsafeIterator @ NatureRecognitor.java:38 | remained=4208 (out of 69285)
+
+=== Unique Traces 15686 ===
+[kiara] Iterator_RemoveOnce @ StoreLoader.java:115 | remained=7493 (out of 70894)
+[kiara] ListIterator_RemoveOnce @ StoreLoader.java:115 | remained=7278 (out of 70894)
+
+=== Unique Traces 16665 ===
+[kiara] Iterator_HasNext @ StoreLoader.java:115 | remained=11376 (out of 188950)
+
+=== Unique Traces 19438 ===
+[SparseBitSet] Collection_UnsafeIterator @ PreviousSetBitTest.java:222 | remained=562 (out of 562)
+
+=== Unique Traces 20205 ===
+[TurkishSpellChecker] Map_UnsafeIterator @ TrieNode.java:42 | remained=95590 (out of 95590)
+
+=== Unique Traces 20958 ===
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:756 | remained=133146 (out of 133146)
+
+=== Unique Traces 26900 ===
+[cassette-nibbler] Collection_UnsafeIterator @ SpectrumFileStateMachine.java:485 | remained=1399 (out of 28285)
+
+=== Unique Traces 36043 ===
+[rtree-multi] List_UnsynchronizedSubList @ RTree.java:394 | remained=5443 (out of 110789)
+
+=== Unique Traces 40223 ===
+[ASM-NonClassloadingExtensions] Collections_SortBeforeBinarySearch @ Analyzer.java:317 | remained=32498 (out of 449748)
+
+=== Unique Traces 44627 ===
+[kiara] Collection_UnsafeIterator @ StoreLoader.java:115 | remained=9928 (out of 160988)
+
+=== Unique Traces 110188 ===
+[QLExpress] Map_UnsafeIterator @ ExpressLoader.java:69 | remained=215 (out of 603)
+
+=== Unique Traces 270344 ===
+[time-series-math] Collections_SortBeforeBinarySearch @ DynamicTimeWarpingDistance.java:241 | remained=320194 (out of 320194)
+[time-series-math] Collections_SortBeforeBinarySearch @ DynamicTimeWarpingDistance.java:240 | remained=28918 (out of 320194)
+
+=== Unique Traces 338861 ===
+[orientdb-jdbc] Map_UnsafeIterator @ OIndexManagerAbstract.java:348 | remained=185085 (out of 185085)
+
+=== Unique Traces 471365 ===
+[orientdb-jdbc] Map_UnsafeIterator @ ODatabaseDocumentTx.java:1021 | remained=244867 (out of 244867)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 56
+Iterator_HasNext: 43
+Collections_SortBeforeBinarySearch: 41
+Map_UnsafeIterator: 35
+Iterator_RemoveOnce: 35
+Collection_UnsynchronizedAddAll: 5
+List_UnsynchronizedSubList: 4
+StringBuilder_ThreadSafe: 4
+Appendable_ThreadSafe: 4
+List_UnsafeListIterator: 2
+ListIterator_RemoveOnce: 2
+Arrays_SortBeforeBinarySearch: 1
+ListIterator_Set: 1
+ListIterator_hasNextPrevious: 1
+ArrayDeque_UnsafeIterator: 1
+Map_CollectionViewAdd: 1

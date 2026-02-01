@@ -1,0 +1,2 @@
+InputStream_ManipulateAfterClose @ Library.java:25: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+InputStream_MarkAfterClose @ Library.java:25: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

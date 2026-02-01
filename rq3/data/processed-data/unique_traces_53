@@ -1,0 +1,8 @@
+[TurkishWordNet] Collections_SortBeforeBinarySearch @ WordNet.java:302 | remained=6509 (out of 129947)
+[asterisk-java] StringBuilder_ThreadSafe @ FastScannerNl.java:124 | remained=9 (out of 9)
+[asterisk-java] Appendable_ThreadSafe @ FastScannerNl.java:124 | remained=6 (out of 9)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+StringBuilder_ThreadSafe: 1
+Appendable_ThreadSafe: 1

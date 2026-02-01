@@ -1,0 +1,9 @@
+[dictomaton] Map_UnsafeIterator @ ImmutableStringObjectMap.java:145 | remained=939 (out of 939)
+[dictomaton] Map_UnsafeIterator @ ImmutableStringStringMap.java:103 | remained=939 (out of 939)
+[Fuzzino] StringBuilder_ThreadSafe @ StringEncoder.java:98 | remained=220 (out of 3756)
+[Fuzzino] Appendable_ThreadSafe @ StringEncoder.java:98 | remained=214 (out of 3756)
+
+=== SPEC STATISTICS ===
+Map_UnsafeIterator: 2
+StringBuilder_ThreadSafe: 1
+Appendable_ThreadSafe: 1

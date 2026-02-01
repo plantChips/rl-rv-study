@@ -1,0 +1,2 @@
+Appendable_ThreadSafe @ AcceptanceRejectionRandomNumberGeneratorTest.java:63: 1 Unique Traces, 100 Redundant Traces, 1 Preserved, 12 Remained 
+StringBuilder_ThreadSafe @ AcceptanceRejectionRandomNumberGeneratorTest.java:63: 1 Unique Traces, 100 Redundant Traces, 1 Preserved, 19 Remained 

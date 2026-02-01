@@ -1,0 +1,10 @@
+Appendable_ThreadSafe @ CapletVolatilitiesParametricTest.java:113: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 114 Remained 
+Appendable_ThreadSafe @ CapletVolatilitiesParametricTest.java:114: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 107 Remained 
+Appendable_ThreadSafe @ CapletVolatilitiesParametricTest.java:115: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 155 Remained 
+Appendable_ThreadSafe @ CapletVolatilitiesParametricTest.java:116: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 116 Remained 
+Appendable_ThreadSafe @ CapletVolatilitiesParametricTest.java:121: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ CapletVolatilitiesParametricTest.java:113: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 121 Remained 
+StringBuilder_ThreadSafe @ CapletVolatilitiesParametricTest.java:114: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 152 Remained 
+StringBuilder_ThreadSafe @ CapletVolatilitiesParametricTest.java:115: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 164 Remained 
+StringBuilder_ThreadSafe @ CapletVolatilitiesParametricTest.java:116: 1 Unique Traces, 1999 Redundant Traces, 1 Preserved, 125 Remained 
+StringBuilder_ThreadSafe @ CapletVolatilitiesParametricTest.java:121: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 

@@ -1,0 +1,10 @@
+Appendable_ThreadSafe @ DiscountCurveFromForwardCurve.java:72: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ HybridAssetLIBORModelMonteCarloSimulationFromModelsTest.java:50: 1 Unique Traces, 900 Redundant Traces, 1 Preserved, 62 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:479: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216: 40 Unique Traces, 0 Redundant Traces, 40 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:263: 1 Unique Traces, 39 Redundant Traces, 1 Preserved, 13 Remained 
+Collections_SortBeforeBinarySearch @ LIBORMarketModelFromCovarianceModel.java:960: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LinearAlgebra.java:408: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ DiscountCurveFromForwardCurve.java:72: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ HybridAssetLIBORModelMonteCarloSimulationFromModelsTest.java:50: 1 Unique Traces, 900 Redundant Traces, 1 Preserved, 52 Remained 

@@ -1,0 +1,6 @@
+[PointCloudUtilities] Map_UnsafeIterator @ Graphs.java:41 | remained=294 (out of 5495)
+[kiara] Iterator_RemoveOnce @ StoreSearch.java:241 | remained=285 (out of 4496)
+
+=== SPEC STATISTICS ===
+Map_UnsafeIterator: 1
+Iterator_RemoveOnce: 1

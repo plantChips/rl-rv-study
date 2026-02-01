@@ -1,0 +1,17 @@
+Appendable_ThreadSafe @ CapValuationTest.java:176: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 20 Remained 
+Appendable_ThreadSafe @ CapValuationTest.java:189: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 19 Remained 
+Appendable_ThreadSafe @ CapValuationTest.java:204: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 11 Remained 
+Appendable_ThreadSafe @ CapValuationTest.java:208: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 17 Remained 
+Appendable_ThreadSafe @ CapValuationTest.java:213: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+CharSequence_NotInMap @ AnalyticModelFromCurvesAndVols.java:305: 2 Unique Traces, 232 Redundant Traces, 2 Preserved, 50 Remained 
+CharSequence_NotInMap @ AnalyticModelFromCurvesAndVols.java:306: 1 Unique Traces, 233 Redundant Traces, 1 Preserved, 15 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:479: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216: 80 Unique Traces, 0 Redundant Traces, 80 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LIBORMarketModelFromCovarianceModel.java:960: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LinearAlgebra.java:408: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ CapValuationTest.java:176: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 35 Remained 
+StringBuilder_ThreadSafe @ CapValuationTest.java:189: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 61 Remained 
+StringBuilder_ThreadSafe @ CapValuationTest.java:204: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 30 Remained 
+StringBuilder_ThreadSafe @ CapValuationTest.java:208: 1 Unique Traces, 77 Redundant Traces, 1 Preserved, 62 Remained 
+StringBuilder_ThreadSafe @ CapValuationTest.java:213: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

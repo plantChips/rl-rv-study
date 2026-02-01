@@ -1,0 +1,2 @@
+Appendable_ThreadSafe @ HestonModelCallOptionTest.java:87: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ HestonModelCallOptionTest.java:87: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 0 Remained 

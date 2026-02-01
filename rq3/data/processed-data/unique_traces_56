@@ -1,0 +1,13 @@
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:556 | remained=2239 (out of 45076)
+[progex] ArrayDeque_UnsafeIterator @ JavaDDGBuilder.java:556 | remained=2236 (out of 45076)
+[kiara] Collections_SortBeforeBinarySearch @ StoreLoader.java:252 | remained=754 (out of 15029)
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ Octree.java:312 | remained=747 (out of 14608)
+[PointCloudUtilities] Iterator_RemoveOnce @ Graphs.java:41 | remained=637 (out of 11281)
+[orientdb-jdbc] Iterator_RemoveOnce @ OSQLEngine.java:354 | remained=140 (out of 140)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ ByteWordSetBuilder.java:74 | remained=94 (out of 94)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 3
+Iterator_RemoveOnce: 2
+Collection_UnsafeIterator: 1
+ArrayDeque_UnsafeIterator: 1

@@ -1,0 +1,8 @@
+[attoparser] Collections_SortBeforeBinarySearch @ IOUtils.java:504 | remained=48 (out of 621)
+[pgs-calc] Map_UnsafeIterator @ CommandLine.java:6050 | remained=30 (out of 454)
+[Fuzzino] List_UnsafeListIterator @ ComputableListImpl.java:181 | remained=13 (out of 41)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+Map_UnsafeIterator: 1
+List_UnsafeListIterator: 1

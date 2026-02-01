@@ -1,0 +1,23 @@
+[JaroWinklerSimilarity] Iterator_HasNext @ TrieSet.java:508 | remained=53041 (out of 1057230)
+[java-vector-tile] Collection_UnsafeIterator @ VectorTileDecoder.java:359 | remained=10053 (out of 10053)
+[java-vector-tile] Iterator_HasNext @ VectorTileDecoder.java:306 | remained=10053 (out of 10053)
+[cocolian-nlp] Collection_UnsafeIterator @ DateTimeRecognitor.java:67 | remained=395 (out of 6961)
+[cocolian-nlp] Iterator_RemoveOnce @ DateTimeRecognitor.java:67 | remained=392 (out of 6961)
+[cocolian-nlp] Iterator_HasNext @ DateTimeRecognitor.java:67 | remained=372 (out of 6961)
+[kiara] Collections_SortBeforeBinarySearch @ OrderedKeys.java:35 | remained=193 (out of 3850)
+[ASM-NonClassloadingExtensions] Collections_SortBeforeBinarySearch @ Util.java:112 | remained=181 (out of 3113)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ WorkSet.java:111 | remained=85 (out of 85)
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ FiniteStateMachine.java:173 | remained=60 (out of 788)
+[jackcess] Iterator_HasNext @ PropertiesTest.java:212 | remained=50 (out of 50)
+[jackcess] Iterator_RemoveOnce @ PropertiesTest.java:212 | remained=50 (out of 50)
+[stringsearchalgorithms] Iterator_RemoveOnce @ CharWordSetBuilder.java:153 | remained=37 (out of 420)
+[TurkishDeasciifier] Collections_SortBeforeBinarySearch @ FiniteStateMachine.java:173 | remained=34 (out of 242)
+[stringsearchalgorithms] ListIterator_RemoveOnce @ CharWordSetBuilder.java:153 | remained=28 (out of 420)
+[functional-utils] Iterator_HasNext @ Iterables.java:931 | remained=9 (out of 28)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 5
+Collections_SortBeforeBinarySearch: 5
+Iterator_RemoveOnce: 3
+Collection_UnsafeIterator: 2
+ListIterator_RemoveOnce: 1

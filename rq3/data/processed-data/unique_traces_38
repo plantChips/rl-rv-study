@@ -1,0 +1,17 @@
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:472 | remained=1679 (out of 32494)
+[progex] ArrayDeque_UnsafeIterator @ JavaDDGBuilder.java:472 | remained=1667 (out of 32494)
+[cocolian-nlp] Collection_UnsafeIterator @ TestPOS.java:81 | remained=78 (out of 78)
+[cocolian-nlp] Iterator_HasNext @ TestPOS.java:81 | remained=78 (out of 78)
+[orientdb-jdbc] Appendable_ThreadSafe @ OBaseParser.java:607 | remained=58 (out of 309)
+[progex] Iterator_HasNext @ JavaDDGBuilder.java:312 | remained=34 (out of 448)
+[progex] Iterator_RemoveOnce @ JavaDDGBuilder.java:312 | remained=31 (out of 448)
+[orientdb-jdbc] Appendable_ThreadSafe @ OCommandExecutorAbstract.java:142 | remained=30 (out of 241)
+[orientdb-jdbc] StringBuilder_ThreadSafe @ OBaseParser.java:495 | remained=29 (out of 300)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 2
+Iterator_HasNext: 2
+Appendable_ThreadSafe: 2
+ArrayDeque_UnsafeIterator: 1
+Iterator_RemoveOnce: 1
+StringBuilder_ThreadSafe: 1

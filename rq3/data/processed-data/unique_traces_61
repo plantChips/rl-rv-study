@@ -1,0 +1,6 @@
+[ASM-NonClassloadingExtensions] Collections_SortBeforeBinarySearch @ Util.java:153 | remained=17945 (out of 357494)
+[jackcess] Map_UnsafeIterator @ PropertyMaps.java:108 | remained=387 (out of 387)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 1
+Map_UnsafeIterator: 1

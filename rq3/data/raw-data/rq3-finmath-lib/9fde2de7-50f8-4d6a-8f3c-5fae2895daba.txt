@@ -1,0 +1,9 @@
+Appendable_ThreadSafe @ RandomVariableDifferentiableAADTest.java:57: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ RandomVariableDifferentiableAADTest.java:58: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collection_UnsafeIterator @ RandomVariableDifferentiableAAD.java:688: 2 Unique Traces, 29 Redundant Traces, 1 Preserved, 9 Remained 
+Collections_SortBeforeBinarySearch @ RandomVariableDifferentiableAAD.java:120: 1 Unique Traces, 12 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ RandomVariableDifferentiableAAD.java:126: 1 Unique Traces, 1 Redundant Traces, 1 Preserved, 1 Remained 
+Iterator_HasNext @ RandomVariableDifferentiableAAD.java:688: 2 Unique Traces, 29 Redundant Traces, 1 Preserved, 13 Remained 
+Iterator_RemoveOnce @ RandomVariableDifferentiableAAD.java:688: 2 Unique Traces, 29 Redundant Traces, 1 Preserved, 4 Remained 
+StringBuilder_ThreadSafe @ RandomVariableDifferentiableAADTest.java:57: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ RandomVariableDifferentiableAADTest.java:58: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 

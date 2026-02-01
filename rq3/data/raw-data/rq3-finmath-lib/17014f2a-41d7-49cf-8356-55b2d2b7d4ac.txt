@@ -1,0 +1,14 @@
+Appendable_ThreadSafe @ NelsonSiegelSvenssonBondCalibrationTest.java:66: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ NelsonSiegelSvenssonBondCalibrationTest.java:72: 1 Unique Traces, 10 Redundant Traces, 1 Preserved, 10 Remained 
+Collection_UnsafeIterator @ ParameterAggregation.java:85: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collection_UnsafeIterator @ ParameterAggregation.java:95: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LevenbergMarquardt.java:606: 1 Unique Traces, 13 Redundant Traces, 1 Preserved, 1 Remained 
+Collections_SortBeforeBinarySearch @ NelsonSiegelSvenssonBondCalibrationTest.java:113: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351: 10 Unique Traces, 1 Redundant Traces, 9 Preserved, 1 Remained 
+Iterator_HasNext @ ParameterAggregation.java:85: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Iterator_HasNext @ ParameterAggregation.java:95: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Iterator_RemoveOnce @ ParameterAggregation.java:85: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Iterator_RemoveOnce @ ParameterAggregation.java:95: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ NelsonSiegelSvenssonBondCalibrationTest.java:66: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ NelsonSiegelSvenssonBondCalibrationTest.java:72: 1 Unique Traces, 10 Redundant Traces, 1 Preserved, 10 Remained 
+StringTokenizer_HasMoreElements @ AbstractBusinessdayCalendar.java:87: 1 Unique Traces, 10 Redundant Traces, 1 Preserved, 3 Remained 

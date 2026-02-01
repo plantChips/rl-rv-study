@@ -1,0 +1,13 @@
+Appendable_ThreadSafe @ BusinessdayCalendarTest.java:34: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 11 Remained 
+Appendable_ThreadSafe @ BusinessdayCalendarTest.java:41: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 11 Remained 
+Appendable_ThreadSafe @ BusinessdayCalendarTest.java:49: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 11 Remained 
+Appendable_ThreadSafe @ BusinessdayCalendarTest.java:56: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 11 Remained 
+Appendable_ThreadSafe @ BusinessdayCalendarTest.java:63: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 8 Remained 
+Appendable_ThreadSafe @ BusinessdayCalendarTest.java:71: 1 Unique Traces, 4 Redundant Traces, 1 Preserved, 4 Remained 
+StringBuilder_ThreadSafe @ BusinessdayCalendarTest.java:34: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 11 Remained 
+StringBuilder_ThreadSafe @ BusinessdayCalendarTest.java:41: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 4 Remained 
+StringBuilder_ThreadSafe @ BusinessdayCalendarTest.java:49: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 11 Remained 
+StringBuilder_ThreadSafe @ BusinessdayCalendarTest.java:56: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 9 Remained 
+StringBuilder_ThreadSafe @ BusinessdayCalendarTest.java:63: 1 Unique Traces, 11 Redundant Traces, 1 Preserved, 9 Remained 
+StringBuilder_ThreadSafe @ BusinessdayCalendarTest.java:71: 1 Unique Traces, 4 Redundant Traces, 1 Preserved, 4 Remained 
+StringTokenizer_HasMoreElements @ AbstractBusinessdayCalendar.java:87: 1 Unique Traces, 69 Redundant Traces, 1 Preserved, 22 Remained 

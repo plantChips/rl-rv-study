@@ -1,0 +1,9 @@
+[kiara] Map_UnsafeIterator @ SpellCheckUtil.java:156 | remained=731 (out of 30243)
+[PointCloudUtilities] Iterator_HasNext @ Graphs.java:41 | remained=623 (out of 11287)
+[PointCloudUtilities] Collection_UnsafeIterator @ Graphs.java:41 | remained=579 (out of 11287)
+[jackcess] Map_UnsafeIterator @ PropertyMapImpl.java:163 | remained=46 (out of 348)
+
+=== SPEC STATISTICS ===
+Map_UnsafeIterator: 2
+Iterator_HasNext: 1
+Collection_UnsafeIterator: 1

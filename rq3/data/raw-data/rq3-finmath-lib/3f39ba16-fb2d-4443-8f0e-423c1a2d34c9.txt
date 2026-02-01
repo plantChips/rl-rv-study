@@ -1,0 +1,4 @@
+Appendable_ThreadSafe @ CapletVolatilitiesTest.java:49: 1 Unique Traces, 71 Redundant Traces, 1 Preserved, 25 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 3 Unique Traces, 3 Redundant Traces, 3 Preserved, 3 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:479: 2 Unique Traces, 4 Redundant Traces, 2 Preserved, 4 Remained 
+StringBuilder_ThreadSafe @ CapletVolatilitiesTest.java:49: 1 Unique Traces, 71 Redundant Traces, 1 Preserved, 4 Remained 

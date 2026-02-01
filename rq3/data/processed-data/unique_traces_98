@@ -1,0 +1,10 @@
+[progex] Collections_SortBeforeBinarySearch @ FlexibleHashMap.java:139 | remained=4303 (out of 4303)
+[java-concurrent-hash-trie-map] Iterator_RemoveOnce @ TestMapIterator.java:23 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_RemoveOnce @ TestMapIterator.java:27 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_RemoveOnce @ TestMapIterator.java:30 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_RemoveOnce @ TestMapIterator.java:38 | remained=0 (out of 0)
+[java-concurrent-hash-trie-map] Iterator_RemoveOnce @ TestMapIterator.java:47 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Iterator_RemoveOnce: 5
+Collections_SortBeforeBinarySearch: 1

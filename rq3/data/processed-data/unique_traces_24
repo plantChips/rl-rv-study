@@ -1,0 +1,25 @@
+[gramtest] Collections_SortBeforeBinarySearch @ GeneratorVisitor.java:224 | remained=13605 (out of 270353)
+[PointCloudUtilities] Iterator_HasNext @ Octree.java:146 | remained=617 (out of 11501)
+[PointCloudUtilities] Collection_UnsafeIterator @ Octree.java:146 | remained=578 (out of 11501)
+[kiara] Collections_SortBeforeBinarySearch @ LogicalUtil.java:345 | remained=269 (out of 5502)
+[jlemmagen] Iterator_HasNext @ LemmaTreeNode.java:110 | remained=223 (out of 3052)
+[jlemmagen] Collection_UnsafeIterator @ LemmaTreeNode.java:110 | remained=186 (out of 3052)
+[jlemmagen] Iterator_RemoveOnce @ LemmaTreeNode.java:110 | remained=165 (out of 3052)
+[jlemmagen] Map_CollectionViewAdd @ LemmaTreeNode.java:118 | remained=146 (out of 3052)
+[jlemmagen] Iterator_HasNext @ LemmaTreeNode.java:321 | remained=85 (out of 1185)
+[jlemmagen] Collection_UnsafeIterator @ LemmaTreeNode.java:321 | remained=64 (out of 1185)
+[jlemmagen] Iterator_RemoveOnce @ LemmaTreeNode.java:321 | remained=60 (out of 1185)
+[TurkishMorphologicalDisambiguation] Collection_UnsafeIterator @ FsmParseList.java:174 | remained=12 (out of 119)
+[PointCloudUtilities] Collection_UnsafeIterator @ LevelSetSkeleton.java:307 | remained=5 (out of 5)
+[PointCloudUtilities] Iterator_HasNext @ LevelSetSkeleton.java:307 | remained=5 (out of 5)
+[PointCloudUtilities] Iterator_RemoveOnce @ LevelSetSkeleton.java:307 | remained=5 (out of 5)
+[progex] Collection_UnsafeIterator @ AbstractPropertyGraph.java:109 | remained=3 (out of 3)
+[choco-graph] Iterator_HasNext @ ConnectivityFinder.java:127 | remained=2 (out of 2)
+[orientdb-jdbc] Iterator_HasNext @ OSQLEngine.java:361 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Iterator_HasNext: 6
+Collection_UnsafeIterator: 6
+Iterator_RemoveOnce: 3
+Collections_SortBeforeBinarySearch: 2
+Map_CollectionViewAdd: 1

@@ -1,0 +1,2 @@
+Appendable_ThreadSafe @ NormalDistributionTest.java:52: 1 Unique Traces, 999 Redundant Traces, 1 Preserved, 81 Remained 
+StringBuilder_ThreadSafe @ NormalDistributionTest.java:52: 1 Unique Traces, 999 Redundant Traces, 1 Preserved, 70 Remained 

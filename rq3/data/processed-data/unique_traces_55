@@ -1,0 +1,11 @@
+[gramtest] Collection_UnsafeIterator @ GeneratorVisitor.java:220 | remained=14459 (out of 289995)
+[progex] Collection_UnsafeIterator @ MatcherLinkedHashSet.java:115 | remained=7049 (out of 7049)
+[progex] Iterator_HasNext @ MatcherLinkedHashSet.java:118 | remained=7049 (out of 7049)
+[jcunit] Map_UnsafeIterator @ RegexTranslator.java:85 | remained=137 (out of 137)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ ByteWordSetBuilder.java:134 | remained=95 (out of 95)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 2
+Iterator_HasNext: 1
+Map_UnsafeIterator: 1
+Collections_SortBeforeBinarySearch: 1

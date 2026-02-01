@@ -1,0 +1,8 @@
+[PointCloudUtilities] Collection_UnsafeIterator @ Octree.java:149 | remained=58336 (out of 58336)
+[PointCloudUtilities] Iterator_HasNext @ Octree.java:149 | remained=58336 (out of 58336)
+[PointCloudUtilities] Iterator_RemoveOnce @ Octree.java:149 | remained=58336 (out of 58336)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 1
+Iterator_HasNext: 1
+Iterator_RemoveOnce: 1

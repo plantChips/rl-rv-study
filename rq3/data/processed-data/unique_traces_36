@@ -1,0 +1,30 @@
+[ik-analyzer] Collections_SortBeforeBinarySearch @ BiSegGraph.java:179 | remained=119364 (out of 119364)
+[ik-analyzer] Collections_SortBeforeBinarySearch @ SegGraph.java:88 | remained=11948 (out of 238764)
+[orientdb-jdbc] Iterator_RemoveOnce @ OImmutableSchema.java:50 | remained=3129 (out of 3129)
+[orientdb-jdbc] Collections_SortBeforeBinarySearch @ OTrackedList.java:56 | remained=3088 (out of 3088)
+[orientdb-jdbc] Iterator_HasNext @ OTrackedList.java:85 | remained=3088 (out of 3088)
+[QLExpress] StringBuilder_ThreadSafe @ InstructionSet.java:312 | remained=543 (out of 10193)
+[QLExpress] Appendable_ThreadSafe @ InstructionSet.java:312 | remained=525 (out of 10193)
+[progex] Collections_SortBeforeBinarySearch @ JavaDDGBuilder.java:853 | remained=414 (out of 414)
+[PointCloudUtilities] Collection_UnsafeIterator @ Graphs.java:136 | remained=266 (out of 266)
+[PointCloudUtilities] Iterator_HasNext @ Graphs.java:136 | remained=266 (out of 266)
+[PointCloudUtilities] Iterator_RemoveOnce @ Graphs.java:136 | remained=266 (out of 266)
+[PointCloudUtilities] Map_UnsafeIterator @ Graphs.java:136 | remained=266 (out of 266)
+[TurkishWordNet] Collections_SortBeforeBinarySearch @ Synonym.java:52 | remained=118 (out of 1483)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:236 | remained=39 (out of 39)
+[asterisk-java] Collections_SortBeforeBinarySearch @ ClassFile.java:611 | remained=36 (out of 187)
+[orientdb-jdbc] Collections_SortBeforeBinarySearch @ OSchemaShared.java:813 | remained=32 (out of 163)
+[orientdb-jdbc] Iterator_RemoveOnce @ OSchemaShared.java:811 | remained=27 (out of 148)
+[orientdb-jdbc] Collections_SortBeforeBinarySearch @ OImmutableSchema.java:51 | remained=25 (out of 151)
+[orientdb-jdbc] Collection_UnsafeIterator @ OTrackedList.java:85 | remained=16 (out of 170)
+[PointCloudUtilities] Collection_UnsafeIterator @ Graphs.java:30 | remained=11 (out of 11)
+[PointCloudUtilities] Iterator_HasNext @ Graphs.java:30 | remained=11 (out of 11)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 8
+Iterator_RemoveOnce: 3
+Iterator_HasNext: 3
+Collection_UnsafeIterator: 3
+Map_UnsafeIterator: 2
+StringBuilder_ThreadSafe: 1
+Appendable_ThreadSafe: 1

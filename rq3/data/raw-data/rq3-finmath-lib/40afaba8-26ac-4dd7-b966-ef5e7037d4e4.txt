@@ -1,0 +1,17 @@
+Appendable_ThreadSafe @ DiscountCurveFromForwardCurve.java:72: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelInterpolationTest.java:63: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelInterpolationTest.java:158: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelInterpolationTest.java:159: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelInterpolationTest.java:161: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelInterpolationTest.java:162: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:479: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216: 10 Unique Traces, 110 Redundant Traces, 6 Preserved, 21 Remained 
+Collections_SortBeforeBinarySearch @ LIBORMarketModelFromCovarianceModel.java:960: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LinearAlgebra.java:408: 1 Unique Traces, 5 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ DiscountCurveFromForwardCurve.java:72: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelInterpolationTest.java:63: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelInterpolationTest.java:158: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelInterpolationTest.java:159: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 1 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelInterpolationTest.java:161: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelInterpolationTest.java:162: 1 Unique Traces, 2 Redundant Traces, 1 Preserved, 2 Remained 

@@ -1,0 +1,39 @@
+[progex] Collection_UnsafeIterator @ ParserRuleContext.java:180 | remained=103007 (out of 2058584)
+[progex] Iterator_HasNext @ ParserRuleContext.java:180 | remained=102582 (out of 2058584)
+[rtree2] Collection_UnsafeIterator @ Util.java:50 | remained=59993 (out of 2084948)
+[rtree-multi] Collection_UnsafeIterator @ Util.java:45 | remained=59993 (out of 2301088)
+[progex] Collection_UnsafeIterator @ FlexibleHashMap.java:104 | remained=12353 (out of 247074)
+[TurkishSpellChecker] Iterator_RemoveOnce @ TrieNode.java:42 | remained=4753 (out of 94237)
+[TurkishSpellChecker] StringBuilder_ThreadSafe @ TrieNode.java:43 | remained=4736 (out of 94237)
+[TurkishSpellChecker] Appendable_ThreadSafe @ TrieNode.java:43 | remained=4682 (out of 94237)
+[jcunit] Iterator_HasNext @ CartesianEnumerator.java:84 | remained=3438 (out of 67444)
+[jcunit] Collection_UnsafeIterator @ CartesianEnumerator.java:84 | remained=3401 (out of 67444)
+[cocolian-nlp] Iterator_HasNext @ TextRankSummarization.java:183 | remained=2138 (out of 40494)
+[cocolian-nlp] Iterator_RemoveOnce @ TextRankSummarization.java:183 | remained=2094 (out of 40494)
+[cocolian-nlp] Collection_UnsafeIterator @ TextRankSummarization.java:183 | remained=2086 (out of 40494)
+[jcunit] Collection_UnsafeIterator @ CartesianEnumerator.java:20 | remained=1679 (out of 33708)
+[jcunit] Iterator_HasNext @ CartesianEnumerator.java:20 | remained=1667 (out of 33708)
+[QLExpress] Map_UnsafeIterator @ NodeTypeManager.java:157 | remained=613 (out of 613)
+[cocolian-nlp] Iterator_HasNext @ TextRankSummarization.java:182 | remained=151 (out of 1694)
+[cocolian-nlp] Iterator_RemoveOnce @ TextRankSummarization.java:182 | remained=143 (out of 1694)
+[cocolian-nlp] Collection_UnsafeIterator @ TextRankSummarization.java:182 | remained=107 (out of 1694)
+[attoparser] Iterator_HasNext @ StringUtils.java:4038 | remained=94 (out of 652)
+[stringsearchalgorithms] Iterator_RemoveOnce @ AhoCorasick.java:138 | remained=57 (out of 141)
+[cocolian-nlp] Collection_UnsafeIterator @ TFIDFKeywordExtractor.java:65 | remained=56 (out of 56)
+[cocolian-nlp] Iterator_HasNext @ TFIDFKeywordExtractor.java:65 | remained=56 (out of 56)
+[cocolian-nlp] Iterator_RemoveOnce @ TFIDFKeywordExtractor.java:65 | remained=56 (out of 56)
+[attoparser] Collection_UnsafeIterator @ StringUtils.java:4130 | remained=55 (out of 652)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:351 | remained=34 (out of 70)
+[jackcess] Map_UnsafeIterator @ RowFilter.java:97 | remained=13 (out of 13)
+[PointCloudUtilities] Collection_UnsafeIterator @ LevelSetSkeleton.java:335 | remained=6 (out of 6)
+[PointCloudUtilities] Iterator_HasNext @ LevelSetSkeleton.java:335 | remained=6 (out of 6)
+[PointCloudUtilities] Iterator_RemoveOnce @ LevelSetSkeleton.java:335 | remained=6 (out of 6)
+
+=== SPEC STATISTICS ===
+Collection_UnsafeIterator: 11
+Iterator_HasNext: 8
+Iterator_RemoveOnce: 6
+Map_UnsafeIterator: 2
+StringBuilder_ThreadSafe: 1
+Appendable_ThreadSafe: 1
+Collections_SortBeforeBinarySearch: 1

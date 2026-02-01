@@ -1,0 +1,1 @@
+StringTokenizer_HasMoreElements @ AbstractBusinessdayCalendar.java:87: 1 Unique Traces, 4 Redundant Traces, 1 Preserved, 3 Remained 

@@ -1,0 +1,9 @@
+[jieba-analysis] StringBuilder_ThreadSafe @ JiebaSegmenter.java:104 | remained=13398 (out of 268303)
+[rtree-multi] Collections_SortBeforeBinarySearch @ SplitterQuadratic.java:46 | remained=2373 (out of 45844)
+[rtree2] Collections_SortBeforeBinarySearch @ SplitterQuadratic.java:40 | remained=2324 (out of 45969)
+[TurkishMorphologicalDisambiguation] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:549 | remained=896 (out of 896)
+[stringsearchalgorithms] Collections_SortBeforeBinarySearch @ CharWordSetBuilder.java:134 | remained=29 (out of 378)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 4
+StringBuilder_ThreadSafe: 1

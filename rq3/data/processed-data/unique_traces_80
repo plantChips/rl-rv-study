@@ -1,0 +1,9 @@
+[progex] Iterator_RemoveOnce @ PredictionMode.java:470 | remained=1835 (out of 1835)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=885 (out of 15920)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=80 (out of 80)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=0 (out of 0)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 4
+Iterator_RemoveOnce: 1

@@ -1,0 +1,30 @@
+[QLExpress] Appendable_ThreadSafe @ QLPatternNode.java:139 | remained=1694 (out of 34060)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=1400 (out of 1400)
+[finmath-lib] Collections_SortBeforeBinarySearch @ ScheduleGenerator.java:296 | remained=552 (out of 10102)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=400 (out of 400)
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ Octree.java:318 | remained=280 (out of 3398)
+[PointCloudUtilities] Iterator_RemoveOnce @ Octree.java:256 | remained=264 (out of 3398)
+[PointCloudUtilities] Collection_UnsafeIterator @ Octree.java:265 | remained=251 (out of 3398)
+[PointCloudUtilities] Collection_UnsafeIterator @ Octree.java:256 | remained=225 (out of 3398)
+[PointCloudUtilities] Iterator_HasNext @ Octree.java:256 | remained=219 (out of 3398)
+[PointCloudUtilities] Iterator_RemoveOnce @ Octree.java:265 | remained=218 (out of 3398)
+[PointCloudUtilities] Iterator_HasNext @ Octree.java:265 | remained=212 (out of 3398)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=199 (out of 199)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=80 (out of 80)
+[orientdb-jdbc] Iterator_HasNext @ OStreamSerializerSBTreeIndexRIDContainer.java:142 | remained=77 (out of 634)
+[orientdb-jdbc] Iterator_RemoveOnce @ OStreamSerializerSBTreeIndexRIDContainer.java:142 | remained=74 (out of 650)
+[orientdb-jdbc] Collection_UnsafeIterator @ OStreamSerializerSBTreeIndexRIDContainer.java:142 | remained=66 (out of 668)
+[orientdb-jdbc] Collection_UnsafeIterator @ OIndexRIDContainer.java:142 | remained=61 (out of 655)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=40 (out of 40)
+[finmath-lib] Map_UnsafeIterator @ SABRShiftedSmileCalibration.java:236 | remained=35 (out of 35)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=0 (out of 0)
+[finmath-lib] Collections_SortBeforeBinarySearch @ EulerSchemeFromProcessModel.java:216 | remained=0 (out of 0)
+[orientdb-jdbc] Map_UnsafeIterator @ OEngineRemote.java:68 | remained=0 (out of 0)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 9
+Collection_UnsafeIterator: 4
+Iterator_RemoveOnce: 3
+Iterator_HasNext: 3
+Map_UnsafeIterator: 2
+Appendable_ThreadSafe: 1

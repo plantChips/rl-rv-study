@@ -1,0 +1,25 @@
+[progex] Iterator_HasNext @ JavaDDGBuilder.java:488 | remained=10608 (out of 10608)
+[stringsearchalgorithms] Collection_UnsafeIterator @ MultiFactorRE.java:229 | remained=3241 (out of 3241)
+[stringsearchalgorithms] Iterator_HasNext @ MultiFactorRE.java:229 | remained=3241 (out of 3241)
+[rtree-multi] List_UnsynchronizedSubList @ RTree.java:389 | remained=850 (out of 17200)
+[kiara] Iterator_HasNext @ SpellCheckUtil.java:156 | remained=823 (out of 15213)
+[kiara] Collection_UnsafeIterator @ SpellCheckUtil.java:156 | remained=780 (out of 15213)
+[TurkishWordNet] Collection_UnsafeIterator @ Synonym.java:43 | remained=421 (out of 7833)
+[orientdb-jdbc] Map_CollectionViewAdd @ OClassImpl.java:935 | remained=351 (out of 351)
+[progex] Collections_SortBeforeBinarySearch @ JavaDDGBuilder.java:217 | remained=201 (out of 2733)
+[stringsearchalgorithms] Iterator_HasNext @ DoubleArrayCharFallbackTrieCompiler.java:51 | remained=156 (out of 156)
+[TurkishSpellChecker] Iterator_RemoveOnce @ NGramSpellChecker.java:192 | remained=56 (out of 56)
+[stringsearchalgorithms] Collection_UnsafeIterator @ DoubleArrayCharFallbackTrieCompiler.java:51 | remained=25 (out of 156)
+[cocolian-nlp] Collections_SortBeforeBinarySearch @ SimpleDetector.java:93 | remained=23 (out of 23)
+[stringsearchalgorithms] Iterator_RemoveOnce @ DoubleArrayCharFallbackTrieCompiler.java:51 | remained=17 (out of 156)
+[javadbf] Collections_SortBeforeBinarySearch @ DBFHeader.java:182 | remained=4 (out of 46)
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ LevelSetSkeleton.java:410 | remained=1 (out of 1)
+[PointCloudUtilities] Collections_SortBeforeBinarySearch @ LevelSetSkeleton.java:409 | remained=0 (out of 1)
+
+=== SPEC STATISTICS ===
+Collections_SortBeforeBinarySearch: 5
+Iterator_HasNext: 4
+Collection_UnsafeIterator: 4
+Iterator_RemoveOnce: 2
+List_UnsynchronizedSubList: 1
+Map_CollectionViewAdd: 1

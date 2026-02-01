@@ -1,0 +1,24 @@
+[QLExpress] Map_UnsafeIterator @ InstructionSet.java:156 | remained=220799 (out of 220799)
+[dictomaton] Map_UnsafeIterator @ State.java:184 | remained=129998 (out of 6600034)
+[stringsearchalgorithms] Iterator_RemoveOnce @ GlushkovAnalyzer.java:367 | remained=2853 (out of 53760)
+[TurkishWordNet] Iterator_RemoveOnce @ WordNet.java:461 | remained=295 (out of 5442)
+[progex] Collection_UnsafeIterator @ JavaDDGBuilder.java:592 | remained=246 (out of 4760)
+[progex] Iterator_HasNext @ JavaDDGBuilder.java:592 | remained=242 (out of 4760)
+[TurkishSpellChecker] Collections_SortBeforeBinarySearch @ FsmMorphologicalAnalyzer.java:443 | remained=82 (out of 1102)
+[orientdb-jdbc] Map_UnsafeIterator @ OCommandExecutorSQLSelect.java:382 | remained=80 (out of 80)
+[TurkishSpellChecker] Collection_UnsafeIterator @ NGramSpellChecker.java:192 | remained=57 (out of 57)
+[TurkishSpellChecker] Iterator_HasNext @ NGramSpellChecker.java:192 | remained=57 (out of 57)
+[progex] ArrayDeque_UnsafeIterator @ JavaCDGBuilder.java:726 | remained=47 (out of 47)
+[progex] Collection_UnsafeIterator @ JavaCDGBuilder.java:726 | remained=47 (out of 47)
+[kiara] Iterator_HasNext @ LogicalUtil.java:266 | remained=37 (out of 113)
+[kiara] Iterator_RemoveOnce @ LogicalUtil.java:266 | remained=20 (out of 113)
+[stringsearchalgorithms] Map_UnsafeIterator @ DoubleArrayCharFallbackTrieCompiler.java:51 | remained=17 (out of 332)
+[kiara] Collection_UnsafeIterator @ LogicalUtil.java:266 | remained=11 (out of 113)
+
+=== SPEC STATISTICS ===
+Map_UnsafeIterator: 4
+Collection_UnsafeIterator: 4
+Iterator_RemoveOnce: 3
+Iterator_HasNext: 3
+Collections_SortBeforeBinarySearch: 1
+ArrayDeque_UnsafeIterator: 1

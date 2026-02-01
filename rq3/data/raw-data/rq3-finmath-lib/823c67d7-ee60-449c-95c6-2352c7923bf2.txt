@@ -1,0 +1,16 @@
+Appendable_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:321: 1 Unique Traces, 14 Redundant Traces, 1 Preserved, 14 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:328: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:331: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:332: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Appendable_ThreadSafe @ SwaptionSimple.java:106: 1 Unique Traces, 14 Redundant Traces, 1 Preserved, 14 Remained 
+Appendable_ThreadSafe @ TimeDiscretizationFromArray.java:350: 1 Unique Traces, 14 Redundant Traces, 1 Preserved, 14 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:474: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ CurveInterpolation.java:479: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LIBORMarketModelCalibrationSmileTest.java:203: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+Collections_SortBeforeBinarySearch @ LevenbergMarquardt.java:606: 1 Unique Traces, 17 Redundant Traces, 1 Preserved, 16 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:321: 1 Unique Traces, 14 Redundant Traces, 1 Preserved, 7 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:328: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:331: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ LIBORMarketModelCalibrationSmileTest.java:332: 1 Unique Traces, 0 Redundant Traces, 1 Preserved, 0 Remained 
+StringBuilder_ThreadSafe @ SwaptionSimple.java:106: 1 Unique Traces, 14 Redundant Traces, 1 Preserved, 14 Remained 
+StringBuilder_ThreadSafe @ TimeDiscretizationFromArray.java:350: 1 Unique Traces, 14 Redundant Traces, 1 Preserved, 13 Remained 
